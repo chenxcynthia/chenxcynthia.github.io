@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DeepBCR
-description: Decoding deep learning models trained on cancer sequence data.
+description: Decoding sequence-based deep learning models.
 img: assets/img/proj/deepbcr_thumbnail.png
 importance: 1
 github: https://github.com/cynthia9chen/decode-seq

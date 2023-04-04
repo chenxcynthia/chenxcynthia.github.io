@@ -3,7 +3,7 @@
   contents:
     - name: Email
       value: <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>
-    - name: Linkedin
+    - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/cchen18/">@cchen18</a>
     - name: Github
       value: <a href="https://github.com/cynthia9chen">@cynthia9chen</a>
@@ -12,22 +12,22 @@
   type: time_table
   contents:
     - title: Harvard University
-      institution: M.S. Computer Science
-      year: 2024
+      institution: M.S. Computer Science, B.A. Computer Science and Secondary in Statistics.
+      year: 2020 - 2024
       description:
         # - Coursework. CS 282 Topics in Machine Learning Interpretability and Explainability, CS 262 Introduction to Distributed Computing, CS 229r Information Theory in Computer Science, CS 299r Independent Research
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
-    - title: Harvard University
-      institution: B.A. Computer Science, Secondary in Statistics
-      year: 2024
-      description:
+    # - title: Harvard University
+    #   institution: 
+    #   year: 2024
+    #   description:
         # - Coursework. CS 161 Operating Systems, CS 124 Data Structures and Algorithms, CS 61 Systems Programming and Machine Organization, MIT 6.036 Machine Learning, CS 120 Algorithms & Limitations, CS 73 Code Data and Art, Stat 185 Unsupervised Learning, Stat 123 Quantitative Finance, Stat 111 Statistical Inference, Stat 110 Probability, Econ 2099 Market Design.
         # - Activities. Harvard Women's Club Volleyball, Harvard Undergraduate Capital Partners (Managing Director), Women in Computer Science (Mentorships Director, Sponsorships Director), Harvard Computer Society (Entrepreneurship Director), Peer Advising Fellow
     - title: The Harker School
       institution: High School
-      year: 2020
+      year: 2016 - 2020
       description:
         # - Coursework. CS 161 Operating Systems, CS 124 Data Structures and Algorithms, CS 61 Systems Programming and Machine Organization, MIT 6.036 Machine Learning, CS 120 Algorithms & Limitations, CS 73 Code Data and Art, Stat 185 Unsupervised Learning, Stat 123 Quantitative Finance, Stat 111 Statistical Inference, Stat 110 Probability, Econ 2099 Market Design.
         # - Activities. Harvard Women's Club Volleyball, Harvard Undergraduate Capital Partners (Managing Director), Women in Computer Science (Mentorships Director, Sponsorships Director), Harvard Computer Society (Entrepreneurship Director), Peer Advising Fellow
@@ -91,8 +91,8 @@
 - title: Skills
   type: list
   contents:
-    - <u>Languages:</u> Python • C/C++ • Java • SQL • R • JavaScript • HTML/CSS • MATLAB
-    - <u>Tools:</u> TensorFlow • PyTorch • scikit-learn • numpy • pandas • Flask • D3 • ReactJS • OpenProcessing • p5.js • Jupyter • Linux • Git
+    - <b>Languages:</b> Python • C/C++ • Java • SQL • R • JavaScript • HTML/CSS • MATLAB
+    - <b>Tools:</b> TensorFlow • PyTorch • scikit-learn • numpy • pandas • Flask • D3 • ReactJS • OpenProcessing • p5.js • Jupyter • Linux • Git
 
 - title: Honors and Awards
   # type: time_table
@@ -117,9 +117,15 @@
       value: Regeneron Science Talent Search Top 40 Finalist
     - name: 2019
       value: Davidson Fellows Laureate, $50K Award Top 4 in Nation
-    - name: 2020
-      value: Research Science Institute (RSI) Scholar
+    - name: 2019
+      value: Top 10 Presentation, Research Science Institute (RSI)
+    - name: 2019
+      value: Intel International Science and Engineering Fair 3rd Award
+    - name: 2018
+      value: Top 15, MIT Math Prize for Girls
     - name: 2016, 2018
       value: 2-Time USA Junior Math Olympiad Qualifier
+    - name: 2015-2019
+      value: 5x American Invitational Mathematics Exam Qualifier
     - name: 2017
       value: USA Computing Olympiad Gold Division

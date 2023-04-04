@@ -1,12 +1,13 @@
 ---
 layout: page
 title: AttentionVis
-description: Visualizing attention in transformers
+description: Visualizing the attention mechanism in transformers.
 img: assets/img/proj/vis_thumbnail.png
 importance: 1
 github: https://github.com/cynthia9chen/attention-vis
 category: research
 ---
+
 
 <!-- 
 <div class="row justify-content-sm-center">
