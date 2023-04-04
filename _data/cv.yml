@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Email
-      value: cynthiachen@college.harvard.edu
+      value: <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>
     - name: Linkedin
-      value: linkedin.com/in/cchen18
+      value: <a href="https://www.linkedin.com/in/cchen18/">@cchen18</a>
     - name: Github
-      value: github.com/cynthia9chen
+      value: <a href="https://github.com/cynthia9chen">@cynthia9chen</a>
 
 - title: Education
   type: time_table
@@ -25,23 +25,30 @@
       description:
         # - Coursework. CS 161 Operating Systems, CS 124 Data Structures and Algorithms, CS 61 Systems Programming and Machine Organization, MIT 6.036 Machine Learning, CS 120 Algorithms & Limitations, CS 73 Code Data and Art, Stat 185 Unsupervised Learning, Stat 123 Quantitative Finance, Stat 111 Statistical Inference, Stat 110 Probability, Econ 2099 Market Design.
         # - Activities. Harvard Women's Club Volleyball, Harvard Undergraduate Capital Partners (Managing Director), Women in Computer Science (Mentorships Director, Sponsorships Director), Harvard Computer Society (Entrepreneurship Director), Peer Advising Fellow
+    - title: The Harker School
+      institution: High School
+      year: 2020
+      description:
+        # - Coursework. CS 161 Operating Systems, CS 124 Data Structures and Algorithms, CS 61 Systems Programming and Machine Organization, MIT 6.036 Machine Learning, CS 120 Algorithms & Limitations, CS 73 Code Data and Art, Stat 185 Unsupervised Learning, Stat 123 Quantitative Finance, Stat 111 Statistical Inference, Stat 110 Probability, Econ 2099 Market Design.
+        # - Activities. Harvard Women's Club Volleyball, Harvard Undergraduate Capital Partners (Managing Director), Women in Computer Science (Mentorships Director, Sponsorships Director), Harvard Computer Society (Entrepreneurship Director), Peer Advising Fellow
+
 
 - title: Experience
   type: time_table
   contents:
     - title: Harvard Insight and Interaction Lab
-      institution: Undergraduate Research Assistant
+      institution: <i>Undergraduate Research Assistant</i>
       year: Current
       description:
         - Visualizing the attention mechanism in transformer models like BERT and GPT. Supervised by Martin Wattenberg and Fernanda Viégas. 
     - title: IMC Financial Markets
-      institution: Quantitative Trading Intern
+      institution: <i>Quantitative Trading Intern</i>
       year: 2022
       description:
         - Developed a time-series prediction model to predict short-term movements and trade ES/NQ futures.
 
     - title: LinkedIn
-      institution: Software Engineering Intern
+      institution: <i>Software Engineering Intern</i>
       year: 2021
       description:
         - AI and Data Infrastructure Team. Developed an end-to-end integration to run Tensorflow Extended (TFX) pipelines on Apache Beam using SparkRunner.
@@ -49,55 +56,25 @@
 
 
     - title: MIT CSAIL
-      institution: Research Assistant
+      institution: <i>Research Assistant</i>
       year: 2021
       description:
         - Investigated computer vision model interpretability by visualizing interactions between activations during model training. Supervised by David Bau and Antonio Torralba.
 
     - title: Harvard School of Public Health
-      institution: Research Intern (Deep Learning)
+      institution: <i>Research Intern</i>
       year: 2018-2020
       description:
         - Conducted a two-year project at the Shirley Liu Lab, developing a computational framework to interpret the sequence patterns in deep learning models. Identified 65 protein sequence motifs for cancer drug synthesis.
         - Co-authored <a href="https://www.sciencedirect.com/science/article/pii/S109727652100040X">paper</a> in Molecular Cell. Presented research at 2019 & 2020 AACR conferences.
 
-- title: Projects
-  type: time_table
-  contents:
-    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #   year: 2015-now
-    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Projects
+#   type: time_table
+#   contents:
+#     # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#     #   year: 2015-now
+#     #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020
-      institution: <b>Stockholm International Youth Science Seminar Award</b>
-    - year: 2020
-      institution: <b>Regeneron Science Talent Search Top 40 Finalist</b>
-    - year: 2019
-      institution: <b>Davidson Fellows Laureate, $50K Award Top 4 in Nation</b>
-    - year: 2020
-      institution: <b>Research Science Institute (RSI) Scholar</b>
-    - year: 2016, 2018
-      institution: <b>2-Time USA Junior Math Olympiad Qualifier</b>
-    - year: 2017
-      institution: <b>USA Computing Olympiad Gold Division</b>
-  
-  type: map
-  contents:
-    - name: 2020
-      value: Stockholm International Youth Science Seminar Award
-    - name: 2020
-      value: Regeneron Science Talent Search Top 40 Finalist
-    - name: 2019
-      value: Davidson Fellows Laureate, $50K Award Top 4 in Nation
-    - name: 2020
-      value: Research Science Institute (RSI) Scholar
-    - name: 2016, 2018
-      value: 2-Time USA Junior Math Olympiad Qualifier
-    - name: 2017
-      value: USA Computing Olympiad Gold Division
 
 # - title: Academic Interests
 #   type: nested_list
@@ -116,3 +93,33 @@
   contents:
     - <u>Languages:</u> Python • C/C++ • Java • SQL • R • JavaScript • HTML/CSS • MATLAB
     - <u>Tools:</u> TensorFlow • PyTorch • scikit-learn • numpy • pandas • Flask • D3 • ReactJS • OpenProcessing • p5.js • Jupyter • Linux • Git
+
+- title: Honors and Awards
+  # type: time_table
+  # contents:
+  #   - year: 2020
+  #     institution: <b>Stockholm International Youth Science Seminar Award</b>
+  #   - year: 2020
+  #     institution: <b>Regeneron Science Talent Search Top 40 Finalist</b>
+  #   - year: 2019
+  #     institution: <b>Davidson Fellows Laureate, $50K Award Top 4 in Nation</b>
+  #   - year: 2020
+  #     institution: <b>Research Science Institute (RSI) Scholar</b>
+  #   - year: 2016, 2018
+  #     institution: <b>2-Time USA Junior Math Olympiad Qualifier</b>
+  #   - year: 2017
+  #     institution: <b>USA Computing Olympiad Gold Division</b>
+  type: map
+  contents:
+    - name: 2020
+      value: Stockholm International Youth Science Seminar Award
+    - name: 2020
+      value: Regeneron Science Talent Search Top 40 Finalist
+    - name: 2019
+      value: Davidson Fellows Laureate, $50K Award Top 4 in Nation
+    - name: 2020
+      value: Research Science Institute (RSI) Scholar
+    - name: 2016, 2018
+      value: 2-Time USA Junior Math Olympiad Qualifier
+    - name: 2017
+      value: USA Computing Olympiad Gold Division

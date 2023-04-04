@@ -17,9 +17,11 @@ social: false  # includes social icons at the bottom of the page
 
 I am a junior at Harvard University pursuing a concurrent Bachelors and Masters in Computer Science. I am originally from Cupertino, California.
 
-Currently, I am an undergraduate researcher at the Harvard Insight and Interaction Lab, supervised by Martin Wattenberg and Fernanda Viegas. My research interests are in the field of AI intepretability, with a particular emphasis on visualizing attention in transformer models
+Currently, I am an undergraduate researcher at the [Harvard Insight and Interaction Lab](https://insight.seas.harvard.edu/), supervised by Martin Wattenberg and Fernanda Viegas. My research interests are in the field of AI intepretability, with a particular emphasis on visualizing attention in transformer models.
 
-At Harvard, I've led several student orgs, including the Harvard Computer Society, Harvard Women in Computer Science, Harvard Undergraduate Capital Partners. I am also a member of the Women's Club Volleyball Team and a Peer Advising Fellow.
+At Harvard, I've helped lead the Harvard Computer Society, Harvard Women in Computer Science, and Harvard Undergraduate Capital Partners. I am also on the Women's Club Volleyball Team and a Peer Advising Fellow.
 
-You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/cynthia9chen)
+In my free time, I love doing hot yoga, exploring coffee shops, and creating [artistic data visualizations](https://github.com/cynthia9chen/data-art).
+
+You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/cynthia9chen).
 

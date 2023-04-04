@@ -5,7 +5,7 @@ permalink: /projects/
 description: continuously a work in progress.
 nav: true
 nav_order: 2
-display_categories: [research, data + art, engineering]
+display_categories: [research, engineering, data + art]
 horizontal: false
 ---
 
