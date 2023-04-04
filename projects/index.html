@@ -30,7 +30,7 @@
 
     <!-- Styles -->
     
-    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="shortcut icon" href="/assets/img/icon.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="canonical" href="https://cynthia9chen.github.io/projects/">
@@ -73,11 +73,11 @@
               
 
               <!-- Other pages -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/publications/">publications</a>
-              </li>
               <li class="nav-item active">
                 <a class="nav-link" href="/projects/">projects<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/publications/">publications</a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/cv/">cv</a>
@@ -144,7 +144,7 @@
 
         <div class="card-body">
           <h4 class="card-title">AttentionVis</h4>
-          <p class="card-text">Visualizing attention in transformers</p>
+          <p class="card-text">Visualizing the attention mechanism in transformers.</p>
           <div class="row ml-1 mr-1 p-0">
 <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
@@ -179,11 +179,46 @@
 
         <div class="card-body">
           <h4 class="card-title">DeepBCR</h4>
-          <p class="card-text">Decoding deep learning models trained on cancer sequence data.</p>
+          <p class="card-text">Decoding sequence-based deep learning models.</p>
           <div class="row ml-1 mr-1 p-0">
 <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
                 <a href="https://github.com/cynthia9chen/decode-seq" rel="external nofollow noopener" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/reversecnn/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/proj/reverse_thumbnail-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/proj/reverse_thumbnail-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/proj/reverse_thumbnail-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj/reverse_thumbnail.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h4 class="card-title">ReverseCNN</h4>
+          <p class="card-text">Saliency heatmaps for CNNs in radiology.</p>
+          <div class="row ml-1 mr-1 p-0">
+<div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="https://github.com/cynthia9chen/reverse-CNN" rel="external nofollow noopener" target="_blank"><i class="fab fa-github gh-icon"></i></a>
               </div>
             </div>
           </div>
