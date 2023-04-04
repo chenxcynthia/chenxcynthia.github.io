@@ -84,7 +84,7 @@ blockquote {
   background-color: var(--global-card-bg-color);
 
   img {
-    width: 100%;
+    width: 90%;
   }
 
   .card-title {
@@ -517,7 +517,16 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: #828282;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+
+  h3.category {
+    color: #828282;
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
