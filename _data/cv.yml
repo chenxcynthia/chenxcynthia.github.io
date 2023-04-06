@@ -40,13 +40,15 @@
       institution: <i>Undergraduate Research Assistant</i>
       year: Current
       description:
-        - Visualizing the attention mechanism in transformer models like BERT and GPT. Supervised by Martin Wattenberg and Fernanda Viégas. 
+        - <a href = "../projects/attentionvis">Visualizing the attention mechanism</a> in transformer models like BERT and GPT. Supervised by Martin Wattenberg and Fernanda Viégas. 
     - title: IMC Financial Markets
       institution: <i>Quantitative Trading Intern</i>
       year: 2022
       description:
         - Developed a time-series prediction model to predict short-term movements and trade ES/NQ futures.
-
+    - title: Hudson River Trading
+      institution: <i>Winter Intern</i>
+      year: 2022
     - title: LinkedIn
       institution: <i>Software Engineering Intern</i>
       year: 2021
@@ -54,18 +56,17 @@
         - AI and Data Infrastructure Team. Developed an end-to-end integration to run Tensorflow Extended (TFX) pipelines on Apache Beam using SparkRunner.
         - Tested integration for improvements in scalability and performance of LinkedIn’s ML production pipelines.
 
-
     - title: MIT CSAIL
-      institution: <i>Research Assistant</i>
+      institution: <i>Undergraduate Research Assistant</i>
       year: 2021
       description:
         - Investigated computer vision model interpretability by visualizing interactions between activations during model training. Supervised by David Bau and Antonio Torralba.
 
-    - title: Harvard School of Public Health
+    - title: Harvard T.H. Chan School of Public Health
       institution: <i>Research Intern</i>
       year: 2018-2020
       description:
-        - Conducted a two-year project at the Shirley Liu Lab, developing a computational framework to interpret the sequence patterns in deep learning models. Identified 65 protein sequence motifs for cancer drug synthesis.
+        - Conducted a two-year project at the Shirley Liu Lab, developing a <a href = "../projects/deepexplain">computational framework</a> to interpret the sequence patterns in deep learning models. Identified 65 protein sequence motifs for cancer drug synthesis.
         - Co-authored <a href="https://www.sciencedirect.com/science/article/pii/S109727652100040X">paper</a> in Molecular Cell. Presented research at 2019 & 2020 AACR conferences.
 
 # - title: Projects
@@ -112,13 +113,15 @@
   type: map
   contents:
     - name: 2020
+      value: <a href="https://www.neo.com">Neo</a> Scholar
+    - name: 2020
       value: Stockholm International Youth Science Seminar Award
     - name: 2020
-      value: Regeneron Science Talent Search Top 40 Finalist
+      value: <a href="https://www.societyforscience.org/regeneron-sts/2020-finalists/">Regeneron Science Talent Search</a> Top 40 Finalist
     - name: 2019
-      value: Davidson Fellows Laureate, $50K Award Top 4 in Nation
+      value: <a href = "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2019-fellows/">Davidson Fellows Laureate</a>, $50,000 Awardee
     - name: 2019
-      value: Top 10 Presentation, Research Science Institute (RSI)
+      value: Top 10 Presentation, <a href="https://www.cee.org/programs/research-science-institute">Research Science Institute (RSI)</a>
     - name: 2019
       value: Intel International Science and Engineering Fair 3rd Award
     - name: 2018

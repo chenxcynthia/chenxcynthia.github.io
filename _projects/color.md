@@ -3,7 +3,7 @@ layout: page
 title: Color
 description: Visualizing color in paintings @ the Harvard Art Museums
 img: assets/img/proj/color_thumbnail.png
-importance: 1
+importance: 2
 github: https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings
 category: data + art
 ---

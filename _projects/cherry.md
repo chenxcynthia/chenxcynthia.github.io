@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Cherry Blossoms
-description: Blooming dates for the Kyoto cherry blossoms
+description: Blossoming dates for the Kyoto cherry
 img: assets/img/proj/cherry_thumbnail.png
-importance: 1
+importance: 3
 github: https://github.com/cynthia9chen/data-art/tree/main/Cherry%20Blossoms
 category: data + art
 ---

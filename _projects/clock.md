@@ -3,7 +3,7 @@ layout: page
 title: Abstract Clock
 description: Can you tell what time it is?
 img: assets/img/proj/clock_thumbnail.png
-importance: 2
+importance: 4
 github: https://github.com/cynthia9chen/data-art/tree/main/Tile%20Clock
 category: data + art
 ---
