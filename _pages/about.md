@@ -23,7 +23,7 @@ At Harvard, I've helped lead the Harvard Computer Society, Women in Computer Sci
 
 Previously, I've worked at IMC Trading, HRT, LinkedIn, and Jemi (YC S20) and conducted machine learning research at MIT CSAIL, Harvard School of Public Health, and Stanford. I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 middle schools for 1000+ low-income students. This summer, I'll be working as a SWE intern at [Scale AI](http://scale.com/).
 
-In my free time, I love exploring coffee shops, doing hot yoga, and creating [artistic data visualizations](https://github.com/cynthia9chen/data-art).
+In my free time, I love trying new coffee shops, doing hot yoga, and creating [artistic data visualizations](https://github.com/cynthia9chen/data-art).
 
 You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/cynthia9chen), or shoot me an email at <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>. I'd love to chat!
 

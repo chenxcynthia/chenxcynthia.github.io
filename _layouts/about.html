@@ -5,11 +5,26 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
+
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
+
           <p class="desc">{{ page.subtitle }}</p>
+
+          <div class="social">
+            <div class="contact-icons">
+              <a href="https://github.com/cynthia9chen/decode-seq"><i class="fab fa-github gh-icon"></i> </a>
+              <a href="https://www.linkedin.com/in/cchen18/"><i class="fab fa-linkedin"></i> </a>
+              <a href="https://twitter.com/chenxcynthia"><i class="fab fa-twitter"></i> </a>
+              <a href="mailto:cynthiachen@college.harvard.edu"><i class="fas fa-envelope"></i> </a>
+              <!-- <a href="https://scholar.google.com/citations?user=iW3h_XoAAAAJ&hl=en"><i class="ai ai-google-scholar"> </a> -->
+              
+            </div>
+          </div>
+          
         </header>
+
 
         <article>
           {% if page.profile -%}

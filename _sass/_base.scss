@@ -301,12 +301,18 @@ blockquote {
 .social {
   text-align: center;
 
+
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.3rem;
+    text-align: left;
+    margin-bottom: 0.5cm;
+    margin-top: -0.25cm;
 
     a {
+      padding-right:3px;
+      text-decoration: none;
       i::before {
-        color: var(--global-text-color);
+        color: #323232;
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -316,10 +322,11 @@ blockquote {
         }
       }
     }
+    
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 }
 
@@ -776,6 +783,11 @@ html.transition *:after {
       padding: 8px;
     }
   }
+
+  // .post-header {
+  //   // margin-bottom: 0.8cm;
+  // }
+  
 }
 
 progress {
