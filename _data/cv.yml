@@ -112,7 +112,7 @@
   #     institution: <b>USA Computing Olympiad Gold Division</b>
   type: map
   contents:
-    - name: 2020
+    - name: 2022
       value: <a href="https://www.neo.com">Neo</a> Scholar
     - name: 2020
       value: Stockholm International Youth Science Seminar Award
@@ -127,8 +127,8 @@
     - name: 2018
       value: Top 15, MIT Math Prize for Girls
     - name: 2016, 2018
-      value: 2-Time USA Junior Math Olympiad Qualifier
+      value: 2x USA Junior Math Olympiad (USAJMO) Qualifier
     - name: 2015-2019
-      value: 5x American Invitational Mathematics Exam Qualifier
+      value: 5x American Invitational Mathematics Exam (AIME) Qualifier
     - name: 2017
-      value: USA Computing Olympiad Gold Division
+      value: USA Computing Olympiad (USACO) Gold Division

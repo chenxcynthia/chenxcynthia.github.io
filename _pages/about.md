@@ -5,7 +5,7 @@ permalink: /
 subtitle: Harvard '24. Computer Science and Statistics.
 
 profile:
-  align: left
+  align: right
   image: profile.png
   image_circular: true # crops the image to make it circular
   address: >
@@ -21,7 +21,7 @@ Currently, I am an undergraduate researcher at the [Harvard Insight and Interact
 
 At Harvard, I've helped lead the Harvard Computer Society, Women in Computer Science, and Harvard Undergraduate Capital Partners. I served as a Statistics 110 Teaching Fellow and a Peer Advising Fellow. I am also on the Women's Club Volleyball Team and involved with the [Harvard AI Safety Team](https://haist.ai/).
 
-Previously, I've worked at IMC Trading, HRT, LinkedIn, and Jemi (YC S20) and conducted machine learning research at MIT CSAIL, Harvard School of Public Health, and Stanford. I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 middle schools for 1000+ low-income students. This summer, I'll be working as a SWE intern at [Scale AI](http://scale.com/).
+Previously, I've worked at IMC, Hudson River Trading, LinkedIn, and Jemi (YC S20) and conducted machine learning research at MIT CSAIL, Harvard School of Public Health, and Stanford. I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 middle schools for 1000+ low-income students. This summer, I'll be a software engineering intern at [Scale AI](http://scale.com/).
 
 In my free time, I love trying new coffee shops, doing hot yoga, and creating [artistic data visualizations](https://github.com/cynthia9chen/data-art).
 
