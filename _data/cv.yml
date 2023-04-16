@@ -112,6 +112,8 @@
   #     institution: <b>USA Computing Olympiad Gold Division</b>
   type: map
   contents:
+    - name: 2023
+      value: Excellence in Academic Advising Awards, Harvard University
     - name: 2022
       value: <a href="https://www.neo.com">Neo</a> Scholar
     - name: 2020
