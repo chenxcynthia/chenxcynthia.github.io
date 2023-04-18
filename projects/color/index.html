@@ -145,9 +145,51 @@
     Screenshot of <a href="https://openprocessing.org/sketch/1787722" rel="external nofollow noopener" target="_blank">the interactive version OpenProcessing piece</a>.
 </div>
 
-<p>Every circle in the visualization represents one painting, with concentric rings encoding the proportional color composition of the piece. Each artwork was tagged with several features, including its medium, year of creation, style of artwork, culture, and colors used. The high-dimensional dataset of artwork features was then embedded into 2D space using the UMAP (Uniform Manifold Approximation and Projection) method. These 2D embeddings were used as the coordinates of each painting, thus placing paintings with similar features closer together in the visualization.</p>
+<p>Every circle in the visualization represents one painting, with concentric rings encoding the proportional color composition of the piece. In the interactive piece, one can hover over a circle to see the piece’s title and artist, and click on a circle to see the artwork’s webpage on the Harvard Art Museum webpage.</p>
 
-<p>In the interactive piece, one can hover over a circle to see the piece’s title and artist, and click on a circle to see the artwork’s webpage on the Harvard Art Museum webpage.</p>
+<p>Each artwork was tagged with several features, including its medium, year of creation, style of artwork, culture, and colors used. The high-dimensional dataset of artwork features was then embedded into 2D space using the UMAP (Uniform Manifold Approximation and Projection) method. These 2D coordinates were then relaxed using Lloyd’s algorithm to space the points out, as shown in the figures below. The UMAP coordinates were used as the location of each artwork’s circle, thus placing artworks with similar features closer together in the visualization.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/proj/umap1-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/proj/umap1-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/proj/umap1-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj/umap1.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/proj/umap2-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/proj/umap2-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/proj/umap2-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj/umap2.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    UMAP embeddings. The original embedding coordinates are on the left, while the relaxed coordinates, spaced apart for visual purposes, are on the right.
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
