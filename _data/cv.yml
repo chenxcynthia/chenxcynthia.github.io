@@ -113,7 +113,9 @@
   type: map
   contents:
     - name: 2023
-      value: Excellence in Academic Advising Awards, Harvard University
+      value: Eliot House Community Artist Fellowship
+    - name: 2023
+      value: <a href="https://advising.college.harvard.edu/excellence-academic-advising-awards">Excellence in Academic Advising Awards</a>, Harvard University
     - name: 2022
       value: <a href="https://www.neo.com">Neo</a> Scholar
     - name: 2020
