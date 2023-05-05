@@ -170,9 +170,10 @@ blockquote {
   background-color: var(--global-card-bg-color);
 }
 .card img {
-  width: 90%;
+  width: 80%;
 }
 .card .card-title {
+  font-size: 20px;
   color: var(--global-text-color);
 }
 .card .card-item {

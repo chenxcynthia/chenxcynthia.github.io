@@ -12,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>projects | Cynthia  Chen</title>
     <meta name="author" content="Cynthia  Chen">
-    <meta name="description" content="continuously a work in progress.">
+    <meta name="description" content="a collection of explorations in research, engineering, and data+art.">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -111,16 +111,51 @@
 
           <header class="post-header">
             <h1 class="post-title">projects</h1>
-            <p class="post-description">continuously a work in progress.</p>
+            <p class="post-description">a collection of explorations in research, engineering, and data+art.</p>
           </header>
 
           <article>
             <!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">research</h2>
+  <h3 class="category">research</h3>
   <!-- Generate cards for each project -->
   <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/induction/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/proj/induction_thumbnail-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/proj/induction_thumbnail-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/proj/induction_thumbnail-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj/induction_thumbnail.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h4 class="card-title">Induction Heads</h4>
+          <p class="card-text">Exploring induction head behavior in BERT.</p>
+          <div class="row ml-1 mr-1 p-0">
+<div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="https://github.com/cynthia9chen/interp-research-2023/tree/main/Induction%20Heads" rel="external nofollow noopener" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
@@ -143,12 +178,12 @@
 </figure>
 
         <div class="card-body">
-          <h4 class="card-title">AttentionVis</h4>
-          <p class="card-text">Visualizing the attention mechanism in transformers.</p>
+          <h4 class="card-title">Visualizing Transformer Attention</h4>
+          <p class="card-text">Experiments to visualize queries and keys in the transformer attention mechanism.</p>
           <div class="row ml-1 mr-1 p-0">
 <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="https://github.com/cynthia9chen/attention-vis" rel="external nofollow noopener" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+                <a href="https://github.com/cynthia9chen/interp-research-2023/tree/main/Attention%20Visualization" rel="external nofollow noopener" target="_blank"><i class="fab fa-github gh-icon"></i></a>
               </div>
             </div>
           </div>
@@ -227,7 +262,7 @@
     </a>
 </div>
   </div>
-  <h2 class="category">engineering</h2>
+  <h3 class="category">engineering</h3>
   <!-- Generate cards for each project -->
   <div class="grid">
 <!-- _includes/projects.html -->
@@ -266,7 +301,7 @@
     </a>
 </div>
   </div>
-  <h2 class="category">data + art</h2>
+  <h3 class="category">data + art</h3>
   <!-- Generate cards for each project -->
   <div class="grid">
 <!-- _includes/projects.html -->
