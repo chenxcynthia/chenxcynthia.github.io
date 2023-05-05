@@ -3,7 +3,7 @@ layout: page
 title: DeepBCR
 description: Decoding sequence-based deep learning models.
 img: assets/img/proj/deepbcr_thumbnail.png
-importance: 1
+importance: 3
 github: https://github.com/cynthia9chen/decode-seq
 category: research
 ---
