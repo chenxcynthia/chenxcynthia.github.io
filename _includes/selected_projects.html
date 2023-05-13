@@ -8,11 +8,13 @@
 		.container {
 			display: flex;
 			flex-wrap: wrap;
+            margin-bottom: 15px;
+            margin-top: 15px;
 		}
 
 		.column1 {
 			flex: 1;
-            max-width: 30%;
+            max-width: 22%;
             
             /* margin-left:0px; */
 			/* margin-right: 20px; */
@@ -29,9 +31,34 @@
 		}
 
 		.image {
+            display: block;
+            /* margin-left: -30px; */
 			width: auto;
-			height: 180px;
+			height: 130px;
+            float: left;
 		}
+        .a {
+                color: var(--global-text-color);
+                text-decoration: none;
+            } 
+        .links {
+            color: var(--global-text-color);
+            border: 1px solid var(--global-text-color);
+            /* padding-left: 0.5rem; */
+            /* padding-right: 1rem; */
+            /* padding-top: -1rem; */
+            /* padding-bottom: 0.25rem; */
+            height: 30px;
+            width: 120px;
+            text-align: center;
+
+            
+
+            &:hover {
+                color: var(--global-theme-color);
+                border-color: var(--global-theme-color);
+            }
+        }
 	</style>
 </head>
 <body>
@@ -40,7 +67,17 @@
 			<img class="image" src="../assets/img/proj/color_thumbnail.png" alt="Image description">
 		</div>
 		<div class="column2">
-			<h5>Item Name</h5>
+			<h5>Color</h5>
+			<p>Item Description Lorem ipsum dolor sit amet, consect. </p>
+            <div class="links"><a href="../_projects/color.md">Project Page</a></div>
+		</div>
+	</div>
+    <div class="container">
+		<div class="column1">
+			<img class="image" src="../assets/img/proj/color_thumbnail.png" alt="Image description">
+		</div>
+		<div class="column2">
+			<h5>Color</h5>
 			<p>Item Description Lorem ipsum dolor sit amet, consect. </p>
 		</div>
 	</div>
