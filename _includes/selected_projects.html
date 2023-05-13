@@ -1,0 +1,47 @@
+<!-- <div class="publications">
+
+</div> -->
+
+<head>
+	<title>Two-Column Layout</title>
+	<style>
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.column1 {
+			flex: 1;
+            max-width: 30%;
+            
+            /* margin-left:0px; */
+			/* margin-right: 20px; */
+			/* min-width: 150px; */
+		}
+        .column1 img {
+            display: block;
+            margin: 0;
+		}
+
+		.column2 {
+			flex: 2;
+			max-width: 50%;
+		}
+
+		.image {
+			width: auto;
+			height: 180px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="column1">
+			<img class="image" src="../assets/img/proj/color_thumbnail.png" alt="Image description">
+		</div>
+		<div class="column2">
+			<h5>Item Name</h5>
+			<p>Item Description Lorem ipsum dolor sit amet, consect. </p>
+		</div>
+	</div>
+</body>

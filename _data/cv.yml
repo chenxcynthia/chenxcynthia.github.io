@@ -36,29 +36,36 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Scale AI
+      institution: <i>Software Engineering Intern</i>
+      year: Current
+      description:
+        - Enterprise Generative Platform (EGP) Team.
     - title: Harvard Insight and Interaction Lab
       institution: <i>Undergraduate Research Assistant</i>
       year: Current
       description:
-        - <a href = "../projects/attentionvis">Visualizing the attention mechanism</a> in transformer models like BERT and GPT. Supervised by Martin Wattenberg and Fernanda Viégas. 
+        - Conducted  <a href = "../projects/attentionvis">scaling and correlation experiments</a> to enhance the visualization of transformer attention via joint key + query embeddings.
+        - Explored <a href = "../projects/induction">in-context learning behavior and potential induction heads in BERT</a> and  bidirectional models.
+        - Co-authored paper <a href="https://arxiv.org/abs/2305.03210">AttentionViz A Global View of Transformer Attention</a>.
     - title: IMC Financial Markets
       institution: <i>Quantitative Trading Intern</i>
-      year: 2022
+      year: Summer 2022
       description:
         - Developed a time-series prediction model to predict short-term movements and trade ES/NQ futures.
     - title: Hudson River Trading
       institution: <i>Winter Intern</i>
-      year: 2022
+      year: Winter 2022
     - title: LinkedIn
       institution: <i>Software Engineering Intern</i>
-      year: 2021
+      year: Summer 2021
       description:
         - AI and Data Infrastructure Team. Developed an end-to-end integration to run Tensorflow Extended (TFX) pipelines on Apache Beam using SparkRunner.
         - Tested integration for improvements in scalability and performance of LinkedIn’s ML production pipelines.
 
     - title: MIT CSAIL
       institution: <i>Undergraduate Research Assistant</i>
-      year: 2021
+      year: Spring 2021
       description:
         - Investigated computer vision model interpretability by visualizing interactions between activations during model training. Supervised by David Bau and Antonio Torralba.
 
@@ -113,9 +120,9 @@
   type: map
   contents:
     - name: 2023
-      value: Selected for Eliot House Community Artist Fellowship
+      value: Eliot House Community Artist Fellowship
     - name: 2023
-      value: Recipient of <a href="https://advising.college.harvard.edu/excellence-academic-advising-awards">Excellence in Academic Advising Awards</a>, Harvard University
+      value: <a href="https://advising.college.harvard.edu/excellence-academic-advising-awards">Excellence in Academic Advising Awards</a> Recipient, Harvard University
     - name: 2022
       value: <a href="https://www.neo.com">Neo</a> Scholar
     - name: 2020

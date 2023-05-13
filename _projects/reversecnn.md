@@ -3,9 +3,9 @@ layout: page
 title: ReverseCNN
 description: Saliency heatmaps for CNNs in radiology.
 img: assets/img/proj/reverse_thumbnail.png
-importance: 3
+importance: 5
 github: https://github.com/cynthia9chen/reverse-CNN
-category: research
+category: other
 ---
 
 <!-- https://docs.google.com/document/d/1nlTzhBqsH08EW5pw6BPjItdNZZqnVVDIfi1HAb0XoQA/edit#heading=h.ethmyocbc4cz -->

@@ -55,6 +55,12 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- Selected papers -->
+          {% if page.selected_projects -%}
+            <h3>featured projects</h3>
+            {%- include selected_projects.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
