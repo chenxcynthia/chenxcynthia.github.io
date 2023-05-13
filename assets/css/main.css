@@ -394,6 +394,7 @@ footer.sticky-bottom {
   border-color: var(--global-divider-color);
 }
 .cv .card .list-group-item .badge {
+  font-weight: normal;
   font-size: 13px;
   color: var(--global-footer-bg-color) !important;
   background-color: var(--global-footer-text-color) !important;
