@@ -51,13 +51,12 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="about">
             {{ content }}
           </div>
 
           <!-- Selected papers -->
           {% if page.selected_projects -%}
-            <h3>featured projects</h3>
             {%- include selected_projects.html %}
           {%- endif %}
 

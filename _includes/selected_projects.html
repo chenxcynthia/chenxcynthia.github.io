@@ -8,13 +8,23 @@
 		.container {
 			display: flex;
 			flex-wrap: wrap;
-            margin-bottom: 15px;
-            margin-top: 15px;
+            margin-bottom: 25px;
+            margin-top: 20px;
 		}
+
+        a:link {
+            color: var(--global-text-color);
+        }
+
+        a:hover {
+            text-decoration: none;
+            /* color: var(--global-hover-color); */
+
+        }
 
 		.column1 {
 			flex: 1;
-            max-width: 22%;
+            max-width: 20%;
             
             /* margin-left:0px; */
 			/* margin-right: 20px; */
@@ -22,63 +32,89 @@
 		}
         .column1 img {
             display: block;
-            margin: 0;
+            float: left;
+            margin-left: 0px;
 		}
 
 		.column2 {
 			flex: 2;
-			max-width: 50%;
+			max-width: 60%;
 		}
 
 		.image {
             display: block;
             /* margin-left: -30px; */
-			width: auto;
-			height: 130px;
+			/* width: auto;
+			height: 115px; */
             float: left;
+            margin-left: 0px;
+            width: 108px;
+            height: 108px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
 		}
-        .a {
-                color: var(--global-text-color);
-                text-decoration: none;
-            } 
+         
         .links {
+            margin-top: -8px;
             color: var(--global-text-color);
             border: 1px solid var(--global-text-color);
             /* padding-left: 0.5rem; */
             /* padding-right: 1rem; */
             /* padding-top: -1rem; */
             /* padding-bottom: 0.25rem; */
-            height: 30px;
-            width: 120px;
+            height: 24px;
+            width: 105px;
             text-align: center;
-
-            
+            font-size: 14px;
+            /* .a {
+                color: var(--global-text-color) !important;
+                text-decoration: none !important;
+            }    */
 
             &:hover {
-                color: var(--global-theme-color);
+                color: var(--global-theme-color) !important;
                 border-color: var(--global-theme-color);
             }
         }
 	</style>
 </head>
+
+<!-- style="color: inherit;" -->
 <body>
+    <div class="container">
+		<div class="column1">
+			<img class="image" src="../assets/img/proj/induction_thumbnail.png">
+		</div>
+		<div class="column2">
+			<h5>Induction Heads in BERT</h5>
+			<p>An exploration of in-context learning and potential induction heads in bidirectional transformer models. </p>
+            <div class="links"><a href="../_projects/induction.md">Project Page</a></div> 
+        </div>
+	</div>
+
 	<div class="container">
 		<div class="column1">
-			<img class="image" src="../assets/img/proj/color_thumbnail.png" alt="Image description">
+			<img class="image" src="../assets/img/proj/color_thumbnail.png">
 		</div>
 		<div class="column2">
 			<h5>Color</h5>
-			<p>Item Description Lorem ipsum dolor sit amet, consect. </p>
+			<p> A study on colors used in paintings at the Harvard Art Museums. </p>
             <div class="links"><a href="../_projects/color.md">Project Page</a></div>
 		</div>
 	</div>
+
     <div class="container">
 		<div class="column1">
-			<img class="image" src="../assets/img/proj/color_thumbnail.png" alt="Image description">
+			<img class="image" src="../assets/img/proj/pondio_thumbnail.png">
 		</div>
 		<div class="column2">
-			<h5>Color</h5>
-			<p>Item Description Lorem ipsum dolor sit amet, consect. </p>
+			<h5>pond.io</h5>
+			<p>Visualize your search history!</p>
+            <div class="links"><a href="../_projects/pondio.md">Project Page</a></div>
 		</div>
 	</div>
+    
 </body>
