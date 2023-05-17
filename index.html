@@ -218,7 +218,7 @@
 		.container {
 			display: flex;
 			flex-wrap: wrap;
-            margin-bottom: 25px;
+            margin-bottom: 32px;
             margin-top: 20px;
 		}
 
@@ -249,7 +249,14 @@
 		.column2 {
 			flex: 2;
 			max-width: 60%;
+            font-size: 14px;
+
+            .h5 {
+                font-size: 16px;
+            }
 		}
+        
+        
 
 		.image {
             display: block;
@@ -258,8 +265,8 @@
 			height: 115px; */
             float: left;
             margin-left: 0px;
-            width: 108px;
-            height: 108px;
+            width: 70%;
+            /* height: 90%; */
             position: relative;
             overflow: hidden;
             border-radius: 50%;
@@ -289,6 +296,7 @@
                 border-color: var(--global-theme-color);
             }
         }
+        
 	</style>
 
 
@@ -299,7 +307,7 @@
 			<a href="../projects/induction"><img class="image" src="../assets/img/proj/induction_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h5>Induction Heads in BERT</h5>
+			<h6>Induction Heads in BERT</h6>
 			<p>An exploration of in-context learning and potential induction heads in bidirectional transformer models. </p>
             <div class="links"><a href="../projects/induction">Project Page</a></div> 
         </div>
@@ -310,8 +318,8 @@
 			<a href="../projects/color"><img class="image" src="../assets/img/proj/color_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h5>Color</h5>
-			<p> A study on colors used in paintings at the Harvard Art Museums. </p>
+			<h6>Color</h6>
+			<p> A study on colors used in the paintings in the Harvard Art Museums, with painting data projected to a 2D space using UMAP.</p>
             <div class="links"><a href="../projects/color">Project Page</a></div>
 		</div>
 	</div>
@@ -321,8 +329,8 @@
 			<a href="../projects/pondio"><img class="image" src="../assets/img/proj/pondio_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h5>pond.io</h5>
-			<p>Visualize your search history!</p>
+			<h6>pond.io</h6>
+			<p>Visualize your search history! pond.io is a Chrome extension built using D3, Flask, and JS that clusters your search history into a digestible node graph.</p>
             <div class="links"><a href="../projects/pondio">Project Page</a></div>
 		</div>
 	</div>
