@@ -1,9 +1,9 @@
 ---
 layout: page
 title: pond.io
-description: An extension for visualizing your search history.
+description: A Chrome extension for visualizing your search history in a node cluster graph.
 img: assets/img/proj/pondio_thumbnail.png
-importance: 1
+importance: 2
 github: https://github.com/cynthia9chen/pondio
 category: engineering
 ---
