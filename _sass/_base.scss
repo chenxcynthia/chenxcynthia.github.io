@@ -24,10 +24,10 @@ hr {
 }
 
 table {
-
   td,
   th {
     color: var(--global-text-color);
+    width: 10%;
   }
 
   td {
@@ -78,23 +78,55 @@ blockquote {
   text-align: center;
 }
 
+// Button links
+
+.projheader{
+  margin-bottom: 1.5rem;
+  // padding: 2rem 2rem;
+  text-align: left;
+}
+
+.links {
+  margin-top: -0.6rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+
+  .btn {
+    
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+
+    &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color)!important;
+    }
+  }
+}
+
 // Card
 
 .card {
   background-color: var(--global-card-bg-color);
+  padding-bottom: 0.2rem;
 
   img {
     width: 80%;
   }
 
   .card-title {
-    font-size: 20px;
+    margin-top:-0.5rem;
+    font-size: 17.7px;
     color: var(--global-text-color);
+    line-height: 130%;
   }
 
   .card-item {
     width: auto;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 
     .row {
       display: flex;
@@ -147,9 +179,14 @@ blockquote {
   }
 }
 
+.post-title {
+  font-size: 2.1rem;
+}
+
 .post-description {
+  margin-top: 0.7rem;
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1.08rem;
 
   a {
     color: inherit;
@@ -329,8 +366,8 @@ blockquote {
   .project-icons {
     font-size: 1.15rem;
     text-align: left;
-    // margin-bottom: 0.5cm;
-    margin-top: 0.2cm;
+    margin-right: 0.8rem;
+    margin-top: 0.8rem;
 
     a {
       text-decoration: none;
@@ -536,14 +573,6 @@ footer.sticky-bottom {
       margin-left: auto;
       margin-right: auto;
       float: center;
-      // margin-left: 0px;
-      // width: 70%;
-      // /* height: 90%; */
-      // position: relative;
-      // overflow: hidden;
-      // border-radius: 50%;
-      // 
-      // margin-bottom: 10px;
 }
   }
 
@@ -558,7 +587,8 @@ footer.sticky-bottom {
   }
 
   .card-text {
-    font-size: 13px;
+    font-size: 14px;
+    line-height: 130%;
   }
 
   .grid-sizer,

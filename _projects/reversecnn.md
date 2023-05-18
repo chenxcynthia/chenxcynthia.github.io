@@ -10,6 +10,10 @@ category: other
 
 <!-- https://docs.google.com/document/d/1nlTzhBqsH08EW5pw6BPjItdNZZqnVVDIfi1HAb0XoQA/edit#heading=h.ethmyocbc4cz -->
 
+<div class = "projheader">
+    <div class="links"><a href='https://github.com/cynthia9chen/reverse-CNN' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+</div>
+
 July 12, 2017
 
 <b>Objective: Given a pre-trained CNN for classifying radiology images, create a heatmap that details which areas of an input image are the most important for classification.</b>

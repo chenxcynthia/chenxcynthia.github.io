@@ -1,0 +1,45 @@
+
+<div class="news">
+  <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row">Current</th>
+        <td>
+          Software Engineering Intern @ 
+            <a class="news-title" href="{{ item.url | relative_url }}">Scale AI</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Current</th>
+        <td>
+          Research Assistant @ 
+            <a class="news-title" href="{{ item.url | relative_url }}">Harvard Insight and Interaction Lab</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Fall 2022</th>
+        <td>
+          Teaching Fellow, Statistics 110, Harvard University
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Summer 2022</th>
+        <td>
+          Trading Intern @ IMC Trading
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Summer 2021</th>
+        <td>
+          Software Engineering Intern @ LinkedIn
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Summer 2020</th>
+        <td>
+          Software Engineering Intern @ Jemi (YC S20)
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

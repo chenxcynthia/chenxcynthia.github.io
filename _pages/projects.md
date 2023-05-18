@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: a collection of explorations in research, engineering, and artistic data visualization.
+description: a collection of explorations in research, data visualization, and engineering.
 nav: true
 nav_order: 2
-display_categories: [research, data + art, engineering]
+display_categories: [research, data viz, engineering]
 horizontal: false
 ---
 

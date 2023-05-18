@@ -1,9 +1,4 @@
-<!-- <div class="publications">
-
-</div> -->
-
 <head>
-	<title>Two-Column Layout</title>
 	<style>
 		.container {
 			display: flex;
@@ -12,24 +7,9 @@
             margin-top: 20px;
 		}
 
-        a:link {
-            /* color: var(--global-text-color); */
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: none;
-            /* color: var(--global-hover-color); */
-
-        }
-
 		.column1 {
 			flex: 1;
             max-width: 20%;
-            
-            /* margin-left:0px; */
-			/* margin-right: 20px; */
-			/* min-width: 150px; */
 		}
         .column1 img {
             display: block;
@@ -37,18 +17,40 @@
             margin-left: 0px;
 		}
 
+		.projtitle {
+			font-size: 1rem;
+			margin-bottom: 5px;
+			font-weight: 440;
+		}
+
 		.column2 {
 			flex: 2;
 			max-width: 60%;
-            font-size: 14px;
+            /* font-size: 15px; */
 
-            .h5 {
-                font-size: 16px;
+            .links {
+                margin-top: -0.6rem;
+                margin-bottom: 0.5rem;
+				display: inline-block;
+
+                .btn {
+                    color: var(--global-text-color);
+                    border: 1px solid var(--global-text-color);
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                    padding-top: 0.2rem;
+                    padding-bottom: 0.2rem;
+					font-size: 0.75rem;
+
+                    &:hover {
+                        color: var(--global-theme-color);
+                        border-color: var(--global-theme-color)!important;
+                    }
+                }
             }
+        
 		}
         
-        
-
 		.image {
             display: block;
             /* margin-left: -30px; */
@@ -64,44 +66,33 @@
             object-fit: cover;
             margin-bottom: 10px;
 		}
-         
-        .links {
-            margin-top: -8px;
-            color: var(--global-text-color);
-            border: 1px solid var(--global-text-color);
-            /* padding-left: 0.5rem; */
-            /* padding-right: 1rem; */
-            /* padding-top: -1rem; */
-            /* padding-bottom: 0.25rem; */
-            height: 24px;
-            width: 105px;
-            text-align: center;
-            font-size: 14px;
-            /* .a {
-                color: var(--global-text-color) !important;
-                text-decoration: none !important;
-            }    */
-
-            &:hover {
-                color: var(--global-theme-color) !important;
-                border-color: var(--global-theme-color);
-            }
-        }
-        
 	</style>
 </head>
 
-<!-- style="color: inherit;" -->
+
 <body>
     <div class="container">
 		<div class="column1">
 			<a href="../projects/induction"><img class="image" src="../assets/img/proj/induction_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>Induction Heads in BERT</h6>
+			<div class = "projtitle">Induction Heads in BERT</div>
 			<p>An exploration of in-context learning and potential induction heads in bidirectional transformer models. </p>
-            <div class="links"><a href="../projects/induction">Project Page</a></div> 
-        </div>
+            <div class="links"><a href="../projects/induction" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href='https://drive.google.com/file/d/1bQnSFELkAILxAKDd1Z7lZ1eG6qKqss9w/view?usp=share_link' class="btn z-depth-0" role="button"> Paper </a></div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="column1">
+			<a href="../projects/attention"><img class="image" src="../assets/img/proj/attn_vis_thumbnail2.png"></a>
+		</div>
+		<div class="column2">
+			<div class = "projtitle">Visualizing Attention</div>
+			<p>Studying the attention mechanism in transformer models through visualization experiments with query and key embeddings.</p>
+            <div class="links"><a href="../projects/induction" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href='https://arxiv.org/abs/2305.03210' class="btn z-depth-0" role="button"> Paper </a></div>
+		</div>
 	</div>
 
 	<div class="container">
@@ -109,9 +100,10 @@
 			<a href="../projects/color"><img class="image" src="../assets/img/proj/color_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>Color</h6>
-			<p> A study on colors used in the paintings in the Harvard Art Museums, with painting data projected to a 2D space using UMAP.</p>
-            <div class="links"><a href="../projects/color">Project Page</a></div>
+			<div class = "projtitle">Color</div>
+			<p> Visualizing the colors used in paintings at the Harvard Art Museums. Artwork data is projected onto a 2D space via UMAP.</p>
+            <div class="links"><a href="../projects/color" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href="https://openprocessing.org/sketch/1787722" class="btn btn-sm z-depth-0" role="button">Interactive</a></div>
 		</div>
 	</div>
 
@@ -120,9 +112,9 @@
 			<a href="../projects/pondio"><img class="image" src="../assets/img/proj/pondio_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>pond.io</h6>
+			<div class = "projtitle">pond.io</div>
 			<p>Visualize your search history! pond.io is a Chrome extension built using D3, Flask, and JS that clusters your search history into a digestible node graph.</p>
-            <div class="links"><a href="../projects/pondio">Project Page</a></div>
+            <div class="links"><a href="../projects/pondio" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
 		</div>
 	</div>
     

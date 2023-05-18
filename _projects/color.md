@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Color
-description: Visualizing color in paintings @ the Harvard Art Museums
+description: A study on color in paintings @ Harvard Art Museums.
 img: assets/img/proj/color_thumbnail.png
 importance: 2
 github: https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings
-category: data + art
+category: data viz
 ---
 
-<a href="https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings"><i class="fab fa-github gh-icon"></i> Github</a>
+<div class = "projheader">
+    <div class="links"><a href='https://openprocessing.org/sketch/1787722' class="btn z-depth-0" role="button">Interactive Version</a></div>
+    <div class="links"><a href='https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+</div>
+
 
 A visualization of color in acrylic works @ the Harvard Art Museums. This piece is best viewed through <a href="https://openprocessing.org/sketch/1787722">the interactive version on OpenProcessing</a>.
 
