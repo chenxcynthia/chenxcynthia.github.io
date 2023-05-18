@@ -341,7 +341,7 @@ blockquote {
   font-size: 1.3rem;
   text-align: left;
   margin-bottom: 0.5cm;
-  margin-top: -0.25cm;
+  margin-top: -0.18cm;
 }
 .social .contact-icons a {
   padding-right: 3px;
@@ -352,6 +352,21 @@ blockquote {
   transition-property: all 0.2s ease-in-out;
 }
 .social .contact-icons a:hover i::before {
+  color: var(--global-theme-color);
+}
+.social .project-icons {
+  font-size: 1.15rem;
+  text-align: left;
+  margin-top: 0.2cm;
+}
+.social .project-icons a {
+  text-decoration: none;
+}
+.social .project-icons a i::before {
+  color: #323232;
+  transition-property: all 0.2s ease-in-out;
+}
+.social .project-icons a:hover i::before {
   color: var(--global-theme-color);
 }
 .social .contact-note {
@@ -489,7 +504,14 @@ footer.sticky-bottom {
   color: var(--global-theme-color);
 }
 .projects .card img {
-  width: 100%;
+  display: block;
+  height: 208px;
+  object-fit: cover;
+  position: relative;
+  margin-top: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
 }
 .projects .card-item {
   width: auto;
@@ -498,6 +520,9 @@ footer.sticky-bottom {
 .projects .card-item .row {
   display: flex;
   align-items: center;
+}
+.projects .card-text {
+  font-size: 13px;
 }
 .projects .grid-sizer,
 .projects .grid-item {
@@ -519,6 +544,9 @@ footer.sticky-bottom {
   margin-top: 2rem;
   margin-bottom: 1rem;
   text-align: right;
+}
+.projects h4.category {
+  font-size: 16px;
 }
 
 .about h3 {
