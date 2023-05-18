@@ -122,6 +122,7 @@ hr {
 table td,
 table th {
   color: var(--global-text-color);
+  width: 10%;
 }
 table td {
   font-size: 1rem;
@@ -166,19 +167,45 @@ blockquote {
   text-align: center;
 }
 
+.projheader {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.links {
+  margin-top: -0.6rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+.links .btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+.links .btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color) !important;
+}
+
 .card {
   background-color: var(--global-card-bg-color);
+  padding-bottom: 0.2rem;
 }
 .card img {
   width: 80%;
 }
 .card .card-title {
-  font-size: 20px;
+  margin-top: -0.5rem;
+  font-size: 17.7px;
   color: var(--global-text-color);
+  line-height: 130%;
 }
 .card .card-item {
   width: auto;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .card .card-item .row {
   display: flex;
@@ -219,9 +246,14 @@ blockquote {
     display: block;
   }
 }
+.post-title {
+  font-size: 2.1rem;
+}
+
 .post-description {
+  margin-top: 0.7rem;
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1.08rem;
 }
 .post-description a {
   color: inherit;
@@ -357,7 +389,8 @@ blockquote {
 .social .project-icons {
   font-size: 1.15rem;
   text-align: left;
-  margin-top: 0.2cm;
+  margin-right: 0.8rem;
+  margin-top: 0.8rem;
 }
 .social .project-icons a {
   text-decoration: none;
@@ -522,7 +555,8 @@ footer.sticky-bottom {
   align-items: center;
 }
 .projects .card-text {
-  font-size: 13px;
+  font-size: 14px;
+  line-height: 130%;
 }
 .projects .grid-sizer,
 .projects .grid-item {

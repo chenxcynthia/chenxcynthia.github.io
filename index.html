@@ -113,7 +113,15 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <!-- about.html -->
+      
+	<style>
+		h3 {
+      margin-top:2.2rem;
+    }
+	</style>
+
+
+<!-- about.html -->
       <div class="post">
         <header class="post-header">
 
@@ -166,7 +174,7 @@
 
 <p>I’m a rising senior at Harvard studying Computer Science and Statistics and pursuing a concurrent master’s in Computer Science.</p>
 
-<p>Currently, I am exploring <a href="/projects/attention">transformer interpretability research</a> at Harvard’s <a href="https://insight.seas.harvard.edu/" rel="external nofollow noopener" target="_blank">Insight and Interaction Lab</a>, supervised by Martin Wattenberg and Fernanda Viégas. In the past, I’ve worked on various research projects in <a href="/projects/deepexplain">deep learning for cancer drug discovery</a> (Liu Lab @ Harvard School of Public Health), <a href="/projects/reversecnn">computational biology</a> (Rubin Lab @ Stanford), and computer vision intepretability (Torralba Lab @ MIT CSAIL).</p>
+<p>Currently, I am working on <a href="/projects/attention">transformer interpretability research</a> at the <a href="https://insight.seas.harvard.edu/" rel="external nofollow noopener" target="_blank">Harvard Insight and Interaction Lab</a>, supervised by Martin Wattenberg and Fernanda Viégas. In the past, I’ve worked on various research projects in <a href="/projects/deepexplain">deep learning for cancer drug discovery</a> (Liu Lab @ Harvard School of Public Health), <a href="/projects/reversecnn">computational biology</a> (Rubin Lab @ Stanford), and computer vision intepretability (Torralba Lab @ MIT CSAIL).</p>
 
 <!-- My research interests are in developing visualization techniques to understand patterns in large language models.  -->
 
@@ -177,43 +185,37 @@
 
 <!-- This summer, I'll be a software engineering intern at [Scale AI](http://scale.com/) on their Enterprise Generative Platform team. Previously, I've worked at IMC, Hudson River Trading, LinkedIn, and Jemi (YC S20). I am also the founder of [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs for 2000+ low-income students at 27 middle schools across the nation. -->
 
-<p>I am originally from sunny Cupertino, California. In my free time, I enjoy exploring coffee shops, doing hot yoga, and tinkering with <a href="https://github.com/cynthia9chen/data-art" rel="external nofollow noopener" target="_blank">artistic data visualizations</a>.</p>
+<p>I am originally from sunny Cupertino, California. In my free time, I enjoy exploring coffee shops, doing yoga, and tinkering with <a href="https://github.com/cynthia9chen/data-art" rel="external nofollow noopener" target="_blank">artistic data visualizations</a>.</p>
 
 <!-- &#8202; -->
 
 <!-- You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/cynthia9chen), or shoot me an email at <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>. I'd love to chat! -->
 
 <h3> experience </h3>
-<p><i>Currently:</i></p>
-<ul>
-  <li>
-<i>Software Engineering Intern </i><a href="http://scale.com/" rel="external nofollow noopener" target="_blank">@ Scale AI</a>
-</li>
-  <li>Undergraduate Research Assistant <a href="https://insight.seas.harvard.edu/" rel="external nofollow noopener" target="_blank">@ Harvard Insight and Interaction Lab</a>
-</li>
-</ul>
 
-<p><i>Previously:</i></p>
-<ul>
-  <li>Teaching Fellow, Statistics 110, Harvard University</li>
-  <li>Trading Intern @ IMC Financial Markets</li>
-  <li>Software Engineering Intern @ LinkedIn</li>
-  <li>Software Engineering Intern @ Jemi (YC S20)</li>
-</ul>
+<p><strong>Current.</strong> Software Engineering Intern @ <a href="http://scale.com/" rel="external nofollow noopener" target="_blank">Scale AI</a>. Undergraduate Research Assistant @ <a href="https://insight.seas.harvard.edu/" rel="external nofollow noopener" target="_blank">Harvard Insight and Interaction Lab</a></p>
+
+<p><strong>Previous.</strong> Teaching Fellow, Statistics 110, Harvard University. Trading Intern @ IMC. Software Engineering Intern @ LinkedIn. Software Engineering Intern @ Jemi (YC S20)</p>
 
 <!-- &#8202; -->
 
-<h3>featured projects</h3>
+<!-- <h3>featured projects</h3> -->
 
           </div>
 
+          <!-- News -->
+          
+
           <!-- Selected papers -->
-          <!-- <div class="publications">
+          
 
-</div> -->
+          <!-- Social -->
 
+          <!-- Experience -->
+          
 
-	<title>Two-Column Layout</title>
+          <!-- Selected projects -->
+          <h3>featured projects</h3>
 	<style>
 		.container {
 			display: flex;
@@ -222,24 +224,9 @@
             margin-top: 20px;
 		}
 
-        a:link {
-            /* color: var(--global-text-color); */
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: none;
-            /* color: var(--global-hover-color); */
-
-        }
-
 		.column1 {
 			flex: 1;
             max-width: 20%;
-            
-            /* margin-left:0px; */
-			/* margin-right: 20px; */
-			/* min-width: 150px; */
 		}
         .column1 img {
             display: block;
@@ -247,18 +234,40 @@
             margin-left: 0px;
 		}
 
+		.projtitle {
+			font-size: 1rem;
+			margin-bottom: 5px;
+			font-weight: 440;
+		}
+
 		.column2 {
 			flex: 2;
 			max-width: 60%;
-            font-size: 14px;
+            /* font-size: 15px; */
 
-            .h5 {
-                font-size: 16px;
+            .links {
+                margin-top: -0.6rem;
+                margin-bottom: 0.5rem;
+				display: inline-block;
+
+                .btn {
+                    color: var(--global-text-color);
+                    border: 1px solid var(--global-text-color);
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                    padding-top: 0.2rem;
+                    padding-bottom: 0.2rem;
+					font-size: 0.75rem;
+
+                    &:hover {
+                        color: var(--global-theme-color);
+                        border-color: var(--global-theme-color)!important;
+                    }
+                }
             }
+        
 		}
         
-        
-
 		.image {
             display: block;
             /* margin-left: -30px; */
@@ -274,44 +283,33 @@
             object-fit: cover;
             margin-bottom: 10px;
 		}
-         
-        .links {
-            margin-top: -8px;
-            color: var(--global-text-color);
-            border: 1px solid var(--global-text-color);
-            /* padding-left: 0.5rem; */
-            /* padding-right: 1rem; */
-            /* padding-top: -1rem; */
-            /* padding-bottom: 0.25rem; */
-            height: 24px;
-            width: 105px;
-            text-align: center;
-            font-size: 14px;
-            /* .a {
-                color: var(--global-text-color) !important;
-                text-decoration: none !important;
-            }    */
-
-            &:hover {
-                color: var(--global-theme-color) !important;
-                border-color: var(--global-theme-color);
-            }
-        }
-        
 	</style>
 
 
-<!-- style="color: inherit;" -->
+
 
     <div class="container">
 		<div class="column1">
 			<a href="../projects/induction"><img class="image" src="../assets/img/proj/induction_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>Induction Heads in BERT</h6>
+			<div class="projtitle">Induction Heads in BERT</div>
 			<p>An exploration of in-context learning and potential induction heads in bidirectional transformer models. </p>
-            <div class="links"><a href="../projects/induction">Project Page</a></div> 
-        </div>
+            <div class="links"><a href="../projects/induction" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href="https://drive.google.com/file/d/1bQnSFELkAILxAKDd1Z7lZ1eG6qKqss9w/view?usp=share_link" class="btn z-depth-0" role="button" rel="external nofollow noopener" target="_blank"> Paper </a></div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="column1">
+			<a href="../projects/attention"><img class="image" src="../assets/img/proj/attn_vis_thumbnail2.png"></a>
+		</div>
+		<div class="column2">
+			<div class="projtitle">Visualizing Attention</div>
+			<p>Studying the attention mechanism in transformer models through visualization experiments with query and key embeddings.</p>
+            <div class="links"><a href="../projects/induction" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href="https://arxiv.org/abs/2305.03210" class="btn z-depth-0" role="button" rel="external nofollow noopener" target="_blank"> Paper </a></div>
+		</div>
 	</div>
 
 	<div class="container">
@@ -319,9 +317,10 @@
 			<a href="../projects/color"><img class="image" src="../assets/img/proj/color_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>Color</h6>
-			<p> A study on colors used in the paintings in the Harvard Art Museums, with painting data projected to a 2D space using UMAP.</p>
-            <div class="links"><a href="../projects/color">Project Page</a></div>
+			<div class="projtitle">Color</div>
+			<p> Visualizing the colors used in paintings at the Harvard Art Museums. Artwork data is projected onto a 2D space via UMAP.</p>
+            <div class="links"><a href="../projects/color" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
+			<div class="links"><a href="https://openprocessing.org/sketch/1787722" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Interactive</a></div>
 		</div>
 	</div>
 
@@ -330,21 +329,14 @@
 			<a href="../projects/pondio"><img class="image" src="../assets/img/proj/pondio_thumbnail.png"></a>
 		</div>
 		<div class="column2">
-			<h6>pond.io</h6>
+			<div class="projtitle">pond.io</div>
 			<p>Visualize your search history! pond.io is a Chrome extension built using D3, Flask, and JS that clusters your search history into a digestible node graph.</p>
-            <div class="links"><a href="../projects/pondio">Project Page</a></div>
+            <div class="links"><a href="../projects/pondio" class="btn btn-sm z-depth-0" role="button">Project Page</a></div>
 		</div>
 	</div>
     
 
 
-          <!-- News -->
-          
-
-          <!-- Selected papers -->
-          
-
-          <!-- Social -->
         </article>
 
 </div>
