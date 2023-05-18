@@ -46,7 +46,7 @@ I grew up in sunny Cupertino, California and love to spend time outdoors. In my 
 
 **Current.** Software Engineering Intern @ [Scale AI](http://scale.com/). Research Assistant @ [Harvard Insight and Interaction Lab](https://insight.seas.harvard.edu/).
 
-**Previous.** Teaching Fellow, Statistics 110, Harvard University. Trading Intern @ IMC. Software Engineering Intern @ LinkedIn. Software Engineering Intern @ Jemi (YC S20)
+**Previous.** Teaching Fellow @ Harvard Statistics. Trading Intern @ IMC. Software Engineering Intern @ LinkedIn. Software Engineering Intern @ Jemi (YC S20).
 
 
 

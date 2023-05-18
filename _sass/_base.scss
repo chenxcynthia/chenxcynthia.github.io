@@ -344,10 +344,10 @@ blockquote {
     font-size: 1.3rem;
     text-align: left;
     margin-bottom: 0.5cm;
-    margin-top: -0.18cm;
+    margin-top: -0.15cm;
 
     a {
-      padding-right:3px;
+      padding-right:4px;
       text-decoration: none;
       i::before {
         color: #323232;
@@ -868,9 +868,9 @@ html.transition *:after {
     }
   }
 
-  // .post-header {
-  //   // margin-bottom: 0.8cm;
-  // }
+  .post-header {
+    margin-bottom: 0.8cm;
+  }
   
 }
 
