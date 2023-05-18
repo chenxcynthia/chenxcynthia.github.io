@@ -45,7 +45,7 @@
       institution: <i>Undergraduate Research Assistant</i>
       year: Current
       description:
-        - Performed <a href = "../projects/attentionvis">scaling and correlation experiments</a> to enhance the visualization of transformer attention via joint key + query embeddings.
+        - Performed <a href = "../projects/attention">scaling and correlation experiments</a> to enhance the visualization of transformer attention via joint key + query embeddings.
         - Explored <a href = "../projects/induction">in-context learning behavior and potential induction heads in BERT</a> and  bidirectional models.
         - 'Co-authored paper <a href="https://arxiv.org/abs/2305.03210">"AttentionViz: A Global View of Transformer Attention"</a>.'
     - title: IMC Financial Markets

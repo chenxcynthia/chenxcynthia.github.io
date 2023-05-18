@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DeepBCR
-description: Decoding sequence-based deep learning models.
+title: Decoding Neural Networks
+description: A framework to decode deep learning models trained on protein sequence data.
 img: assets/img/proj/deepbcr_thumbnail.png
 importance: 3
 github: https://github.com/cynthia9chen/decode-seq

@@ -307,10 +307,32 @@ blockquote {
     font-size: 1.3rem;
     text-align: left;
     margin-bottom: 0.5cm;
-    margin-top: -0.25cm;
+    margin-top: -0.18cm;
 
     a {
       padding-right:3px;
+      text-decoration: none;
+      i::before {
+        color: #323232;
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+    
+  }
+
+  .project-icons {
+    font-size: 1.15rem;
+    text-align: left;
+    // margin-bottom: 0.5cm;
+    margin-top: 0.2cm;
+
+    a {
       text-decoration: none;
       i::before {
         color: #323232;
@@ -506,8 +528,23 @@ footer.sticky-bottom {
 
   .card {
     img {
-      width: 100%;
-    }
+      display: block;
+      height: 208px;
+      object-fit: cover;
+      position: relative;
+      margin-top:8%;
+      margin-left: auto;
+      margin-right: auto;
+      float: center;
+      // margin-left: 0px;
+      // width: 70%;
+      // /* height: 90%; */
+      // position: relative;
+      // overflow: hidden;
+      // border-radius: 50%;
+      // 
+      // margin-bottom: 10px;
+}
   }
 
   .card-item {
@@ -518,6 +555,10 @@ footer.sticky-bottom {
       display: flex;
       align-items: center;
     }
+  }
+
+  .card-text {
+    font-size: 13px;
   }
 
   .grid-sizer,
@@ -542,6 +583,10 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+  }
+
+  h4.category{
+    font-size: 16px;
   }
 }
 
