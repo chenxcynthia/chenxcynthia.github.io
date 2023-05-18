@@ -373,10 +373,10 @@ blockquote {
   font-size: 1.3rem;
   text-align: left;
   margin-bottom: 0.5cm;
-  margin-top: -0.18cm;
+  margin-top: -0.15cm;
 }
 .social .contact-icons a {
-  padding-right: 3px;
+  padding-right: 4px;
   text-decoration: none;
 }
 .social .contact-icons a i::before {
@@ -778,6 +778,9 @@ html.transition *:after {
 .post .post-content blockquote {
   border-left: 5px solid var(--global-theme-color);
   padding: 8px;
+}
+.post .post-header {
+  margin-bottom: 0.8cm;
 }
 
 progress {
