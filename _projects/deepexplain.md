@@ -24,3 +24,9 @@ category: research
 <div class="caption">
     DeepBCR pipeline.
 </div>
+
+
+This research project was conducted in the [Liu Lab](https://liulab-dfci.github.io/) at the Harvard School of Public Health, under the mentorship of Dr. [Xihao Hu](https://huxihao.github.io/), Dr. [Collin Tokheim](https://twitter.com/ctokheim?lang=en), and Professor [Shirley Liu](https://liulab-dfci.github.io/).
+
+
+<i>**Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>

@@ -9,6 +9,7 @@ paper: https://arxiv.org/abs/2305.03210
 category: research
 ---
 
+
 <div class = "projheader">
     <div class="links"><a href='https://arxiv.org/abs/2305.03210' class="btn z-depth-0" role="button"> Paper </a></div>
     <div class="links"><a href='https://github.com/cynthia9chen/interp-research-2023/tree/main/Attention%20Visualization' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
@@ -75,8 +76,11 @@ For both of the cases displayed, our method chooses a value of $$c$$ that yields
 
 **Future directions.**  There are several directions in which this work could be continued or extended. First, though we focus on optimizing the correlation between dot product and distance, it remains unclear whether this is the best proxy for attention visualization quality. There may well be several other metrics that could be employed (including the ratio of norms, like we explore in the third metric). Furthermore, the current visualizations only show the query and key embeddings and attention patterns at large and do not depict any particular relationships between individual queries and keys. Future work could look into investigating certain patterns in the visualizations at a more zoomed-in level (e.g: Do noun queries attend to pronoun keys? For a given attention head, how does it match keys and queries?).
 
-
 &#8202;
+
+
+This project was conducted at the [Insight + Interaction Lab](https://insight.seas.harvard.edu/) at Harvard University under the mentorship of [Catherine Yeh](https://catherinesyeh.github.io/), Professor [Martin Wattenberg](https://www.bewitched.com/), and Professor [Fernanda Viégas](http://www.fernandaviegas.com/).
+
 
 <i>**Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>
 

@@ -116,6 +116,8 @@ for indirect object identification in GPT-2 small. arXiv preprint arXiv:2211.005
 
 &#8202;
 
+This project was conducted at the [Insight + Interaction Lab](https://insight.seas.harvard.edu/) at Harvard University under the mentorship of [Catherine Yeh](https://catherinesyeh.github.io/), Professor [Martin Wattenberg](https://www.bewitched.com/), and Professor [Fernanda Viégas](http://www.fernandaviegas.com/).
+
 <i>**Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>
 
 &#8202;
