@@ -24,7 +24,7 @@ experience: false
 
 I'm a rising senior at Harvard studying Computer Science and Statistics and pursuing a concurrent master's in Computer Science.
 
-I am currently working on [transformer interpretability research](/projects/attention) at the [Harvard Insight and Interaction Lab](https://insight.seas.harvard.edu/), supervised by Martin Wattenberg and Fernanda Viégas. In the past, I've worked on research projects in computer vision intepretability (Torralba Lab @ MIT CSAIL), [deep learning for cancer drug discovery](/projects/deepexplain) (Liu Lab @ Harvard School of Public Health), and [computational biology](/projects/reversecnn) (Rubin Lab @ Stanford).
+I am currently working on [transformer interpretability research](/projects/attention) at the Harvard [Insight and Interaction Lab](https://insight.seas.harvard.edu/), supervised by Martin Wattenberg and Fernanda Viégas. In the past, I've worked on research projects in computer vision intepretability (Torralba Lab @ MIT CSAIL), [deep learning for cancer drug discovery](/projects/deepexplain) (Liu Lab @ Harvard School of Public Health), and [computational biology](/projects/reversecnn) (Rubin Lab @ Stanford).
 
 <!-- My research interests are in developing visualization techniques to understand patterns in large language models.  -->
 

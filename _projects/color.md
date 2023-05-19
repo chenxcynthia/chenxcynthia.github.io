@@ -2,7 +2,7 @@
 layout: page
 title: Color
 description: A study on color in paintings @ Harvard Art Museums.
-img: assets/img/proj/color_thumbnail.png
+img: assets/img/proj/color/thumbnail.png
 importance: 2
 github: https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings
 category: data viz
@@ -19,7 +19,7 @@ As an <a href="https://20cynthiac.wixsite.com/mysite/portfolio">artist</a>, I ha
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/color_screenshot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/color/screenshot.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,10 +32,10 @@ Each artwork was tagged with several features, including its medium, year of cre
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/umap1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/color/umap1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/umap2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/color/umap2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ This piece is best viewed through <a href="https://openprocessing.org/sketch/178
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/color_poster.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/color/poster.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

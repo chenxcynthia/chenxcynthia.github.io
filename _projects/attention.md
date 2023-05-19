@@ -2,7 +2,7 @@
 layout: page
 title: Visualizing Attention
 description: Studying transformer attention via experiments with query and key embeddings.
-img: assets/img/proj/attn_vis_thumbnail.png
+img: assets/img/proj/attn/vis_thumbnail.png
 importance: 2
 github: https://github.com/cynthia9chen/interp-research-2023/tree/main/Attention%20Visualization
 paper: https://arxiv.org/abs/2305.03210
@@ -44,7 +44,7 @@ For each attention head, we can thus choose the scale factors $$c$$ that optimiz
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/attn_optimal_constants.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/attn/optimal_constants.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,7 +55,7 @@ For each attention head, we can thus choose the scale factors $$c$$ that optimiz
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/L1H2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/attn/L1H2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,7 +64,7 @@ For each attention head, we can thus choose the scale factors $$c$$ that optimiz
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/L3H3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/attn/L3H3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
