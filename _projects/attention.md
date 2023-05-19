@@ -76,7 +76,11 @@ For both of the cases displayed, our method chooses a value of $$c$$ that yields
 **Future directions.**  There are several directions in which this work could be continued or extended. First, though we focus on optimizing the correlation between dot product and distance, it remains unclear whether this is the best proxy for attention visualization quality. There may well be several other metrics that could be employed (including the ratio of norms, like we explore in the third metric). Furthermore, the current visualizations only show the query and key embeddings and attention patterns at large and do not depict any particular relationships between individual queries and keys. Future work could look into investigating certain patterns in the visualizations at a more zoomed-in level (e.g: Do noun queries attend to pronoun keys? For a given attention head, how does it match keys and queries?).
 
 
-**Questions or feedback?** Email me at cynthiachen@college.harvard.edu.
+&#8202;
+
+<i>**Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>
+
+&#8202;
 
 
 

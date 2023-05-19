@@ -27,7 +27,7 @@ table {
   td,
   th {
     color: var(--global-text-color);
-    width: 10%;
+    // width: 10%;
   }
 
   td {
@@ -180,13 +180,13 @@ blockquote {
 }
 
 .post-title {
-  font-size: 2.1rem;
+  font-size: 2.3rem;
 }
 
 .post-description {
   margin-top: 0.7rem;
   margin-bottom: 2rem;
-  font-size: 1.08rem;
+  font-size: 1.1rem;
 
   a {
     color: inherit;
@@ -587,8 +587,10 @@ footer.sticky-bottom {
   }
 
   .card-text {
-    font-size: 14px;
-    line-height: 130%;
+    // .p {
+
+    // }
+    line-height: 140%;
   }
 
   .grid-sizer,
@@ -869,7 +871,7 @@ html.transition *:after {
   }
 
   .post-header {
-    margin-bottom: 0.8cm;
+    margin-bottom: 0.8rem;
   }
   
 }
