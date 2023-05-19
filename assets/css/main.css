@@ -122,7 +122,6 @@ hr {
 table td,
 table th {
   color: var(--global-text-color);
-  width: 10%;
 }
 table td {
   font-size: 1rem;
@@ -247,13 +246,13 @@ blockquote {
   }
 }
 .post-title {
-  font-size: 2.1rem;
+  font-size: 2.3rem;
 }
 
 .post-description {
   margin-top: 0.7rem;
   margin-bottom: 2rem;
-  font-size: 1.08rem;
+  font-size: 1.1rem;
 }
 .post-description a {
   color: inherit;
@@ -555,8 +554,7 @@ footer.sticky-bottom {
   align-items: center;
 }
 .projects .card-text {
-  font-size: 14px;
-  line-height: 130%;
+  line-height: 140%;
 }
 .projects .grid-sizer,
 .projects .grid-item {
@@ -780,7 +778,7 @@ html.transition *:after {
   padding: 8px;
 }
 .post .post-header {
-  margin-bottom: 0.8cm;
+  margin-bottom: 0.8rem;
 }
 
 progress {
