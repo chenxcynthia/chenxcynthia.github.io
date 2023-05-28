@@ -40,33 +40,38 @@
       institution: <i>Software Engineering Intern</i>
       year: Current
       description:
-        - Enterprise Generative AI Platform (EGP) Team.
+        - "Team: Enterprise Generative AI Platform (EGP)."
+        - Working on <a href="https://scale.com/spellbook">Scale Spellbook</a>, a platform to build, evaluate, and deploy large language model applications. 
     - title: Harvard Insight and Interaction Lab
       institution: <i>Undergraduate Research Assistant</i>
       year: Current
       description:
-        - Performed <a href = "../projects/attention">scaling and correlation experiments</a> to enhance the visualization of transformer attention via joint key + query embeddings.
+        - Performed <a href = "../projects/attention">scaling and correlation experiments</a> to optimize and enhance the visualization of transformer attention via joint key + query embeddings.
         - Explored <a href = "../projects/induction">in-context learning behavior and potential induction heads in BERT</a> and  bidirectional models.
         - 'Co-authored paper <a href="https://arxiv.org/abs/2305.03210">"AttentionViz: A Global View of Transformer Attention"</a>.'
     - title: IMC Financial Markets
       institution: <i>Quantitative Trading Intern</i>
       year: Summer 2022
       description:
-        - Developed a time-series prediction model to predict short-term movements and trade ES/NQ futures.
+        - Worked on the F1 desk trading ES/NQ futures. Created a time-series prediction model to predict short-term ES/NQ movements.
     - title: Hudson River Trading
       institution: <i>Winter Intern</i>
       year: Winter 2022
+      description:
+        - Developed order book infrastructure (C++) and algorithms to identify high-frequency trading (Python). 
     - title: LinkedIn
       institution: <i>Software Engineering Intern</i>
       year: Summer 2021
       description:
-        - AI and Data Infrastructure Team. Developed an end-to-end integration to run Tensorflow Extended (TFX) pipelines on Apache Beam using SparkRunner.
+        - "Team: AI and Data Infrastructure."
+        - Developed an end-to-end integration to run Tensorflow Extended (TFX) pipelines on Apache Beam using SparkRunner.
         - Tested integration for improvements in scalability and performance of LinkedIn’s ML production pipelines.
 
     - title: MIT CSAIL
       institution: <i>Undergraduate Research Assistant</i>
       year: Spring 2021
       description:
+        - Part-time research at the <a href="https://groups.csail.mit.edu/vision/torralbalab/">Torralba Lab</a>.
         - Investigated computer vision model interpretability by visualizing interactions between activations during model training. Supervised by David Bau and Antonio Torralba.
 
     - title: Harvard T.H. Chan School of Public Health
@@ -99,7 +104,7 @@
 - title: Skills
   type: list
   contents:
-    - <b>Languages:</b> Python • C/C++ • Java • SQL • R • JavaScript • HTML/CSS • MATLAB
+    - <b>Languages:</b> Python • C/C++ • Java • SQL • R • TypeScript • JavaScript • HTML/CSS • MATLAB
     - <b>Tools:</b> TensorFlow • PyTorch • scikit-learn • numpy • pandas • Flask • D3 • ReactJS • OpenProcessing • p5.js • Jupyter • Linux • Git
 
 - title: Honors and Awards

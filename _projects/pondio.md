@@ -12,6 +12,8 @@ category: engineering
     <div class="links"><a href="https://github.com/cynthia9chen/pondio" class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div> 
 </div>
 
+Project Collaborator: [Karen Li](https://github.com/karenli6)
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
