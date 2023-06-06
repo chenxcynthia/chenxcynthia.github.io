@@ -35,11 +35,11 @@ In school, I help run [MITxHarvard Women in AI](https://mitharvardwai.github.io/
 
 <!-- This summer, I'll be a software engineering intern at [Scale AI](http://scale.com/) on their Enterprise Generative Platform team. Previously, I've worked at IMC, Hudson River Trading, LinkedIn, and Jemi (YC S20). I am also the founder of [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs for 2000+ low-income students at 27 middle schools across the nation. -->
 
-I am originally from sunny Cupertino, California. In my free time, I enjoy exploring coffee shops, doing yoga, and tinkering with [artistic data visualizations](https://github.com/cynthia9chen/data-art). 
+I am originally from sunny Cupertino, California. In my free time, I enjoy exploring coffee shops, doing yoga, and tinkering with [artistic data visualizations](https://github.com/chenxcynthia/data-art). 
 
 <!-- &#8202; -->
 
-<!-- You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/cynthia9chen), or shoot me an email at <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>. I'd love to chat! -->
+<!-- You can find me on [Twitter](https://twitter.com/chenxcynthia), [LinkedIn](https://www.linkedin.com/in/cchen18/), and [Github](https://github.com/chenxcynthia), or shoot me an email at <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a>. I'd love to chat! -->
 
 
 <h3> experience </h3>

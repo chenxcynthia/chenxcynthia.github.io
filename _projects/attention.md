@@ -4,7 +4,7 @@ title: Visualizing Attention
 description: Studying transformer attention via experiments with query and key embeddings.
 img: assets/img/proj/attn/vis_thumbnail.png
 importance: 2
-github: https://github.com/cynthia9chen/interp-research-2023/tree/main/Attention%20Visualization
+github: https://github.com/chenxcynthia/interp-research-2023/tree/main/Attention%20Visualization
 paper: https://arxiv.org/abs/2305.03210
 category: research
 ---
@@ -12,7 +12,7 @@ category: research
 
 <div class = "projheader">
     <div class="links"><a href='https://arxiv.org/abs/2305.03210' class="btn z-depth-0" role="button"> Paper </a></div>
-    <div class="links"><a href='https://github.com/cynthia9chen/interp-research-2023/tree/main/Attention%20Visualization' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+    <div class="links"><a href='https://github.com/chenxcynthia/interp-research-2023/tree/main/Attention%20Visualization' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
 

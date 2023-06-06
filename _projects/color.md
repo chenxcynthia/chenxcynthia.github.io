@@ -4,13 +4,13 @@ title: Color
 description: A study on color in paintings @ Harvard Art Museums.
 img: assets/img/proj/color/thumbnail.png
 importance: 2
-github: https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings
+github: https://github.com/chenxcynthia/data-art/tree/main/Color%20in%20Paintings
 category: data viz
 ---
 
 <div class = "projheader">
     <div class="links"><a href='https://openprocessing.org/sketch/1787722' class="btn z-depth-0" role="button">Interactive Version</a></div>
-    <div class="links"><a href='https://github.com/cynthia9chen/data-art/tree/main/Color%20in%20Paintings' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+    <div class="links"><a href='https://github.com/chenxcynthia/data-art/tree/main/Color%20in%20Paintings' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
 <div class="row justify-content-sm-center">

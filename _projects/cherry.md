@@ -4,12 +4,12 @@ title: Sakura Season
 description: Japanese sakura full-blooming dates since the 9th century.
 img: assets/img/proj/cherry_thumbnail.png
 importance: 3
-github: https://github.com/cynthia9chen/data-art/tree/main/Cherry%20Blossoms
+github: https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms
 category: data viz
 ---
 
 <div class = "projheader">
-    <div class="links"><a href='https://github.com/cynthia9chen/data-art/tree/main/Cherry%20Blossoms' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+    <div class="links"><a href='https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
 

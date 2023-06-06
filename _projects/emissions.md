@@ -4,12 +4,12 @@ title: Emissions
 description: CO2 emissions, broken down.
 img: assets/img/proj/emissions_thumbnail.png
 importance: 5
-github: https://github.com/cynthia9chen/data-art/tree/main/Emissions
+github: https://github.com/chenxcynthia/data-art/tree/main/Emissions
 category: data viz
 ---
 
 <div class = "projheader">
-    <div class="links"><a href='https://github.com/cynthia9chen/data-art/tree/main/Emissions' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
+    <div class="links"><a href='https://github.com/chenxcynthia/data-art/tree/main/Emissions' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
 Data Source: <a href="https://cdiac.ess-dive.lbl.gov/ftp/ndp030/nation.1751_2014.ems">National CO2 Emissions from Fossil-Fuel Burning, Cement Manufacture, and Gas Flaring</a>.

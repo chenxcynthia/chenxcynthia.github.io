@@ -4,12 +4,12 @@ title: pond.io
 description: A Chrome extension for visualizing your search history in a node cluster graph.
 img: assets/img/proj/pondio_thumbnail.png
 importance: 2
-github: https://github.com/cynthia9chen/pondio
+github: https://github.com/chenxcynthia/pondio
 category: engineering
 ---
 
 <div class = "projheader">
-    <div class="links"><a href="https://github.com/cynthia9chen/pondio" class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div> 
+    <div class="links"><a href="https://github.com/chenxcynthia/pondio" class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div> 
 </div>
 
 Project Collaborator: [Karen Li](https://github.com/karenli6)

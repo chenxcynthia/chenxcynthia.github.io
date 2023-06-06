@@ -6,7 +6,7 @@
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/cchen18/">@cchen18</a>
     - name: Github
-      value: <a href="https://github.com/cynthia9chen">@cynthia9chen</a>
+      value: <a href="https://github.com/chenxcynthia">@chenxcynthia</a>
 
 - title: Education
   type: time_table
@@ -144,7 +144,7 @@
       value: Top 15, MIT Math Prize for Girls
     - name: 2016, 2018
       value: 2x USA Junior Math Olympiad (USAJMO) Qualifier
-    - name: 2015-2019
+    - name: 2015 - 2019
       value: 5x American Invitational Mathematics Exam (AIME) Qualifier
     - name: 2017
       value: USA Computing Olympiad (USACO) Gold Division
