@@ -125,9 +125,11 @@
   type: map
   contents:
     - name: 2023
-      value: Eliot House Community Artist Fellowship
+      value: <a href = "https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx">Undergraduate Technology Innovation Fellow</a>, Harvard Business School
+    # - name: 2023
+    #   value: Eliot House Community Artist Fellowship
     - name: 2023
-      value: <a href="https://advising.college.harvard.edu/excellence-academic-advising-awards">Excellence in Academic Advising Awards</a> Recipient, Harvard University
+      value: <a href="https://advising.college.harvard.edu/excellence-academic-advising-awards">Excellence in Academic Advising Awardee</a>, Harvard University
     - name: 2022
       value: <a href="https://www.neo.com">Neo</a> Scholar
     - name: 2020
@@ -137,7 +139,7 @@
     - name: 2019
       value: <a href = "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2019-fellows/">Davidson Fellows Laureate</a>, $50,000 Awardee
     - name: 2019
-      value: Top 10 Presentation, <a href="https://www.cee.org/programs/research-science-institute">Research Science Institute (RSI)</a>
+      value: <a href="https://www.cee.org/programs/research-science-institute">Research Science Institute (RSI)</a> Top 10 Presentation
     - name: 2019
       value: Intel International Science and Engineering Fair 3rd Award
     - name: 2018
