@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 years: [2023, 2021, 2020, 2018]
-nav: false
+nav: true
 nav_order: 4
 ---
 <!-- _pages/publications.md -->
