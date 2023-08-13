@@ -47,7 +47,7 @@
       year: Current
       description:
         - Performed <a href = "../projects/attention">scaling and correlation experiments</a> to optimize and enhance the visualization of transformer attention via joint key + query embeddings.
-        - Explored <a href = "../projects/induction">in-context learning behavior and potential induction heads in BERT</a> and  bidirectional models.
+        - Explored <a href = "../projects/induction">in-context learning behavior and induction head behavior in BERT</a> and  bidirectional models.
         - 'Co-authored paper <a href="https://arxiv.org/abs/2305.03210">"AttentionViz: A Global View of Transformer Attention"</a>.'
     - title: IMC Financial Markets
       institution: <i>Quantitative Trading Intern</i>

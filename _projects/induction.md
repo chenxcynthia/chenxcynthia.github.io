@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring Induction Heads
-description: An investigation of in-context learning and potential induction heads in BERT.
+description: An investigation of in-context learning and induction head behavior in BERT.
 img: assets/img/proj/induction/thumbnail.png
 importance: 1
 github: https://github.com/chenxcynthia/interp-research-2023/tree/main/Induction%20Heads
