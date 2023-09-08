@@ -38,13 +38,15 @@
   contents:
     - title: Scale AI
       institution: <i>Software Engineering Intern</i>
-      year: Current
+      year: Summer 2023
       description:
-        - "Team: Enterprise Generative AI Platform (EGP)."
-        - Working on <a href="https://scale.com/spellbook">Scale Spellbook</a>, a platform to build, evaluate, and deploy large language model applications. 
+        - One of five engineers building Scale’s <a href="https://scale.com/generative-ai-platform">Enterprise Generative AI Platform</a> for enterprise LLM applications. 
+        - Built end-to-end REST APIs to enable Confluence, Google Drive, and S3 integrations and the ingestion of unstructured data into LLM vector stores. 
+        - Added critical features for sync observability, shipping + integrating for an internal customer in < 2 weeks.
+        - Drove and owned the creation of the <a href="https://scale-egp.readme.io/">EGP API documentation</a>, released to enterprise customers.
     - title: Harvard Insight and Interaction Lab
       institution: <i>Undergraduate Research Assistant</i>
-      year: Current
+      year: Spring 2023
       description:
         - Performed <a href = "../projects/attention">scaling and correlation experiments</a> to optimize and enhance the visualization of transformer attention via joint key + query embeddings.
         - Explored <a href = "../projects/induction">in-context learning behavior and induction head behavior in BERT</a> and  bidirectional models.
@@ -125,7 +127,7 @@
   type: map
   contents:
     - name: 2023
-      value: <a href = "https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx">Roberts Family Technology Innovation Fellow</a>, Harvard Business School
+      value: Roberts Family Technology Innovation Fellow, Harvard Business School
     # - name: 2023
     #   value: Eliot House Community Artist Fellowship
     - name: 2023
