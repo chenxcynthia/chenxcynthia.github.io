@@ -22,9 +22,9 @@ experience: true
 
 <h3> about </h3>
 
-Hi! I'm Cynthia, a senior at Harvard studying CS. I'm passionate about building software in the AI and data spaces and researching visualization methods for AI interpretability. I've interned at at [Scale AI](scale.com), [IMC](imc.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com). At Harvard, I am a Teaching Fellow for a CS course on artistic data visualization and also help organize events for the Harvard startup community. 
+Hi! I'm Cynthia, a senior at Harvard studying CS. I'm passionate about building software in AI + data and researching visualization methods for AI interpretability. I've interned at at [Scale AI](scale.com), [IMC Trading](imc.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com). At Harvard, I am a Teaching Fellow for a CS course on artistic data visualization and also help organize events for the Harvard startup community. 
 
-Some projects I've worked on:
+Some things I've worked on:
 - Building APIs for Scale AI's [Enterprise Generative AI Platform](https://scale.com/generative-ai-platform).
 - [Visualizing attention patterns](/projects/attention) in transformer language models.
 - [Decoding deep neural networks](/projects/deepexplain) trained on protein sequence data to discover tumor-specific motifs. 
