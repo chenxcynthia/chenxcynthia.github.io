@@ -22,11 +22,12 @@ experience: true
 
 <h3> about </h3>
 
-Hi! I'm Cynthia, a senior at Harvard studying Computer Science and Statistics. I'm passionate about building software in AI + data and researching visualization methods for AI interpretability. I've interned at at [Scale AI](scale.com), [IMC Trading](imc.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com). At Harvard, I am a Teaching Fellow for a CS course on artistic data visualization and also help organize events for the Harvard startup community. 
+I'm Cynthia, a senior at Harvard studying Computer Science and Statistics. I'm passionate about building AI + data software and doing research in AI interpretability.
 
 Some things I've worked on:
-- Building APIs for Scale AI's [Enterprise Generative AI Platform](https://scale.com/generative-ai-platform).
-- [Visualizing attention patterns](/projects/attention) in transformer language models.
-- [Decoding deep neural networks](/projects/deepexplain) trained on protein sequence data to discover tumor-specific motifs. 
+- Building software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com).
+- AI interpretability research, from [visualizing transformer attention patterns](/projects/attention) to [decoding sequence patterns in deep neural networks](/projects/deepexplain).
+- Tinkering with data as an [artistic medium](https://chenxcynthia.github.io/projects/).
 - Founding [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 under-resourced schools for 2000+ middle school students nationwide. 
 
+At Harvard, I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), help teach a course on artistic data visualization, and enjoy organizing events to build the Harvard startup community. 
