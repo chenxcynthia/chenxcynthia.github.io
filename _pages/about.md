@@ -22,12 +22,12 @@ experience: true
 
 <h3> about </h3>
 
-I'm Cynthia, a senior at Harvard studying Computer Science and Statistics. I'm passionate about building AI + data software and doing research in AI interpretability.
+I'm Cynthia, a senior at Harvard studying Computer Science and Statistics. I'm passionate about building software in AI and doing research in AI interpretability.
 
 Some things I've worked on:
-- Building software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com).
-- AI interpretability research, from [visualizing transformer attention patterns](/projects/attention) to [decoding sequence patterns in deep neural networks](/projects/deepexplain).
+- Developing software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com).
+- Conducting AI interpretability research, from [visualizing transformer attention patterns](/projects/attention) to [decoding sequence patterns in deep neural networks](/projects/deepexplain).
 - Tinkering with data as an [artistic medium](https://chenxcynthia.github.io/projects/).
 - Founding [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 under-resourced schools for 2000+ middle school students nationwide. 
 
-At Harvard, I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), help teach a course on artistic data visualization, and enjoy organizing events to build the Harvard startup community. 
+At Harvard, I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a Teaching Fellow for [CS 73](https://wattenberg.github.io/cs73/), a course on generative and data-driven artwork. I also enjoy playing volleyball on the women's club team and organizing events within the Harvard startup community. 
