@@ -20,14 +20,20 @@ experience: true
 
 ---
 
-<h3> about </h3>
+<!-- <h3> about </h3> -->
 
-I'm Cynthia, a senior at Harvard studying Computer Science and Statistics. I'm passionate about building software in AI and doing research in AI interpretability.
+I'm Harvard CS student from Cupertino, California. I'm passionate about building software for machine learning, developing research methods to understand AI models, and exploring art + data.
 
-Some things I've worked on:
-- Developing software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com).
-- Conducting AI interpretability research, from [visualizing transformer attention patterns](/projects/attention) to [decoding sequence patterns in deep neural networks](/projects/deepexplain).
-- Tinkering with data as an [artistic medium](https://chenxcynthia.github.io/projects/).
+I've built backend software and data infrastructure at [Scale AI](scale.com), [LinkedIn](linkedin.com), and [Jemi](https://jemi.so/). 
+
+I also conduct research on interpreting transformer language models. My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu). Check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)!
+
+I am a [Harvard Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a Teaching Fellow for [CS 73: Code, Data, and Art](https://wattenberg.github.io/cs73/). I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that started research programs for 2000+ middle school students at 27 under-resourced schools nationwide.
+
+<!-- What I've worked on:
+- Developing software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com). 
+- Investigating the inner workings of transformer language models. My [research]() is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu). Check out our paper on [attention pattern visualization](!
+- Creating [artistic data visualizations](https://chenxcynthia.github.io/projects/) by using data as an artistic medium.
 - Founding [Opportunity X](https://opportunityx.org/), a student-led nonprofit that has created research programs at 27 under-resourced schools for 2000+ middle school students nationwide. 
 
-At Harvard, I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a Teaching Fellow for [CS 73](https://wattenberg.github.io/cs73/), a course on generative and data-driven artwork. I also enjoy playing volleyball on the women's club team and organizing events within the Harvard startup community. 
+At Harvard, I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a Teaching Fellow for [CS 73](https://wattenberg.github.io/cs73/), a course on generative and data-driven artwork. I also enjoy playing volleyball on the women's club team and organizing events within the Harvard startup community.  -->
