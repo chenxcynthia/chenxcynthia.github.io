@@ -26,7 +26,7 @@ I'm a Harvard CS student passionate about building software for machine learning
 
 I've developed backend systems and data infrastructure at [Scale AI](scale.com), [LinkedIn](linkedin.com), and [Jemi](https://jemi.so/).
 
-I'm also working on research to in transformer model interpretability (check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu).
+I'm also working on research in transformer model interpretability (check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu).
 
 I am a [Harvard Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a [CS 73](https://wattenberg.github.io/cs73/) Teaching Fellow. I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that started research programs for 2000+ middle school students at 27 under-resourced schools nationwide.
 
