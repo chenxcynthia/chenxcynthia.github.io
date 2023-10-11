@@ -28,7 +28,7 @@ I've developed backend systems and data infrastructure at [Scale AI](scale.com),
 
 I'm working on research in transformer model interpretability (check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu).
 
-I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), a [CS 73](https://wattenberg.github.io/cs73/) Teaching Fellow, and the founder of [Opportunity X](https://opportunityx.org/).
+I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), a Teaching Fellow for [CS 73](https://wattenberg.github.io/cs73/), and the founder of [Opportunity X](https://opportunityx.org/).
 
 
 <!-- I also enjoy developing research methods to understand AI models and exploring the intersection of art and data. -->
