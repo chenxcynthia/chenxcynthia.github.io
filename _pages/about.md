@@ -22,13 +22,16 @@ experience: true
 
 <!-- <h3> about </h3> -->
 
-I'm Harvard CS student from Cupertino, California. I'm passionate about building software for machine learning, developing research methods to understand AI models, and exploring art + data.
+I'm a Harvard CS student passionate about building software for machine learning.
 
-I've built backend software and data infrastructure at [Scale AI](scale.com), [LinkedIn](linkedin.com), and [Jemi](https://jemi.so/). 
+I've developed backend systems and data infrastructure at [Scale AI](scale.com), [LinkedIn](linkedin.com), and [Jemi](https://jemi.so/).
 
-I also conduct research on interpreting transformer language models. My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu). Check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)!
+I'm also working on research to in transformer model interpretability (check out our recent paper on [attention pattern visualization](https://arxiv.org/pdf/2305.03210.pdf)). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu).
 
-I am a [Harvard Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a Teaching Fellow for [CS 73: Code, Data, and Art](https://wattenberg.github.io/cs73/). I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that started research programs for 2000+ middle school students at 27 under-resourced schools nationwide.
+I am a [Harvard Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx) and a [CS 73](https://wattenberg.github.io/cs73/) Teaching Fellow. I also founded [Opportunity X](https://opportunityx.org/), a student-led nonprofit that started research programs for 2000+ middle school students at 27 under-resourced schools nationwide.
+
+
+<!-- I also enjoy developing research methods to understand AI models and exploring the intersection of art and data. -->
 
 <!-- What I've worked on:
 - Developing software at [Scale AI](scale.com), [Hudson River Trading](https://www.hudsonrivertrading.com/), and [LinkedIn](linkedin.com). 
