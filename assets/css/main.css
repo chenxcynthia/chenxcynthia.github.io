@@ -379,7 +379,7 @@ blockquote {
   text-decoration: none;
 }
 .social .contact-icons a i::before {
-  color: #747373;
+  color: #8f8e8e;
   transition-property: all 0.2s ease-in-out;
 }
 .social .contact-icons a:hover i::before {
