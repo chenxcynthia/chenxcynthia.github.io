@@ -127,25 +127,25 @@
   type: map
   contents:
     - name: 2023
-      value: Roberts Family Technology Innovation Fellow, Harvard Business School
+      value: Roberts Family Technology Innovation Fellow
     # - name: 2023
     #   value: Eliot House Community Artist Fellowship
     - name: 2023
       value: Excellence in Academic Advising Awards, Harvard University
     - name: 2022
-      value: <a href="https://www.neo.com">Neo</a> Scholar
+      value: Neo Scholar
+    # - name: 2020
+    #   value: Stockholm International Youth Science Seminar Award
     - name: 2020
-      value: Stockholm International Youth Science Seminar Award
-    - name: 2020
-      value: <a href="https://www.societyforscience.org/regeneron-sts/2020-finalists/">Regeneron Science Talent Search</a> Top 40 Finalist
+      value: Regeneron Science Talent Search Finalist
     - name: 2019
-      value: <a href = "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2019-fellows/">Davidson Fellows Laureate</a>, $50,000 Awardee
+      value: Davidson Fellows Laureate ($50,000 Scholarship Recipient)
     - name: 2019
-      value: <a href="https://www.cee.org/programs/research-science-institute">Research Science Institute (RSI)</a> Top 10 Presentation
+      value: Research Science Institute Scholar
     - name: 2019
       value: Intel International Science and Engineering Fair 3rd Award
-    - name: 2018
-      value: Top 15, MIT Math Prize for Girls
+    # - name: 2018
+    #   value: MIT Math Prize for Girls Honorable Mention
     - name: 2016, 2018
       value: 2x USA Junior Math Olympiad (USAJMO) Qualifier
     - name: 2015 - 2019
