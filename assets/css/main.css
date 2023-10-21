@@ -385,7 +385,7 @@ blockquote {
   text-decoration: none;
 }
 .social .contact-icons a i::before {
-  color: #a09e9e;
+  color: #b8b8b8;
   transition-property: all 0.2s ease-in-out;
 }
 .social .contact-icons a:hover i::before {
