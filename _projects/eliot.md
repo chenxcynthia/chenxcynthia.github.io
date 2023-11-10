@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Eliot
-description: Visualizing community and connections in Eliot House.
+title: Characters and Connections
+description: Visualizing community in Eliot House.
 img: assets/img/proj/eliot/thumbnail.png
 importance: 0
 github: https://github.com/chenxcynthia/eliot-data-viz
@@ -11,6 +11,7 @@ category: data viz
 <div class = "projheader">
     <div class="links"><a href='https://github.com/chenxcynthia/eliot-data-viz' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
+
 
 &#8202;
 
