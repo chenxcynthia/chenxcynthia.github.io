@@ -22,9 +22,9 @@ experience: true
 
 <h4> About </h4>
 
-I'm a Harvard CS student passionate about building creative and impactful software. 
+I'm a Harvard CS student passionate about building creative software and impactful products.
 
-I'm currently working on [AI interpretability research](https://arxiv.org/pdf/2305.03210.pdf), <a href='#data'>creating visualizations with data and art</a>, and [building startup community at Harvard](https://harvardstartups.vercel.app/).
+I'm currently working on [AI interpretability research](https://arxiv.org/pdf/2305.03210.pdf), exploring <a href='https://chenxcynthia.github.io/projects'>data + art</a>, and building [startup community](https://harvardstartups.vercel.app/) at Harvard.
 
 Previously, I've worked on backend systems and AI products at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). I'll be joining [Convex](https://www.convex.dev/) as a software engineer in August 2024.
 
