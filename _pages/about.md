@@ -22,14 +22,15 @@ experience: true
 
 <!-- <h3> about </h3> -->
 
-I'm a Harvard CS student passionate about building software for machine learning.
+I'm a Harvard CS student with interests in software, startups, and machine learning. I'm passionate about [building startup community](https://harvardstartups.vercel.app/) and thinking about how to design better interfaces.
 
-I've developed robust and scalable systems and data infrastructure at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/).
+Previously, I've built backend systems and software at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). In August 2024, I'll be joining [Convex](https://www.convex.dev/) as a software engineer.
 
-I'm working on research in machine learning interpretability (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on visualizing transformer attention). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu).
+I've also worked on AI interpretability research, specifically visualizing attention and information flow in transformers (check out our recent [paper]). I currently work with Professors Martin Wattenberg and Fernanda Viegas at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu).
 
 I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), a Teaching Fellow for [CS 73: Code, Data, and Art](https://wattenberg.github.io/cs73/), and the founder of [Opportunity X](https://opportunityx.org/).
 
+<!-- I've also worked on AI interpretability research, specifically on visualizing transformer attention and  (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on visualizing transformer attention). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu). -->
 
 <!-- I also enjoy developing research methods to understand AI models and exploring the intersection of art and data. -->
 
