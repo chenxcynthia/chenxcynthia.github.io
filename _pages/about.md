@@ -20,15 +20,20 @@ experience: true
 
 ---
 
-<!-- <h3> about </h3> -->
+<h4> About </h4>
 
-I'm a Harvard CS student with interests in software, startups, and machine learning. I'm passionate about [building startup community](https://harvardstartups.vercel.app/) and thinking about how to design better interfaces.
+I'm a Harvard CS student passionate about building creative and impactful software. 
 
-Previously, I've built backend systems and software at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). In August 2024, I'll be joining [Convex](https://www.convex.dev/) as a software engineer.
+I'm currently working on [AI interpretability research](https://arxiv.org/pdf/2305.03210.pdf), <a href='#data'>creating visualizations with data and art</a>, and [building startup community at Harvard](https://harvardstartups.vercel.app/).
 
-I've also worked on AI interpretability research, specifically visualizing attention and information flow in transformers (check out our recent [paper]). I currently work with Professors Martin Wattenberg and Fernanda Viegas at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu).
+Previously, I've worked on backend systems and AI products at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). I'll be joining [Convex](https://www.convex.dev/) as a software engineer in August 2024.
 
-I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), a Teaching Fellow for [CS 73: Code, Data, and Art](https://wattenberg.github.io/cs73/), and the founder of [Opportunity X](https://opportunityx.org/).
+<!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm specifically interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
+
+I am a [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), a Teaching Fellow for CS 73 and Stat 110 at Harvard, and the founder [Opportunity X](https://opportunityx.org/).
+
+<h4> Let's chat </h4>
+I'd love to hear from you: <a href="mailto:cynthiachen@college.harvard.edu">cynthiachen@college.harvard.edu</a> or [@chenxcynthia](https://twitter.com/chenxcynthia) on Twitter.
 
 <!-- I've also worked on AI interpretability research, specifically on visualizing transformer attention and  (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on visualizing transformer attention). My [research](https://chenxcynthia.github.io/projects/attention/) is supervised by [Prof. Martin Wattenberg](https://www.bewitched.com/) at the [Insight and Interaction Lab](https://insight.seas.harvard.edu). -->
 

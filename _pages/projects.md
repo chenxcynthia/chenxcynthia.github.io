@@ -5,7 +5,7 @@ permalink: /projects/
 description: explorations in AI research, data visualization, and software engineering.
 nav: true
 nav_order: 2
-display_categories: [research, data viz, engineering]
+display_categories: [research, data, engineering]
 horizontal: false
 ---
 
@@ -14,7 +14,7 @@ horizontal: false
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h3 class="category">{{ category }}</h3>
+  <h3 class="category" id=`${category}`>{{ category }}</h3>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
