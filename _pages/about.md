@@ -28,7 +28,7 @@ Previously, I've worked on backend systems and AI products at [Scale AI](https:/
 
 <!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm specifically interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
 
-I am a [Neo Scholar](https://neo.com/), [Roberts Family Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), and founder of [Opportunity X](https://opportunityx.org/).
+I am a [Neo Scholar](https://neo.com/), Roberts Family [Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), and founder of [Opportunity X](https://opportunityx.org/).
 
 <h4> Let's chat </h4>
 I'd love to hear from you via <a href="mailto:cynthiachen@college.harvard.edu">email</a> or [Twitter](https://twitter.com/chenxcynthia).
