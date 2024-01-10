@@ -5,7 +5,7 @@ description: CO2 emissions, broken down.
 img: assets/img/proj/emissions_thumbnail.png
 importance: 5
 github: https://github.com/chenxcynthia/data-art/tree/main/Emissions
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">

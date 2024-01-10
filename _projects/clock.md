@@ -5,7 +5,7 @@ description: Can you tell what time it is?
 img: assets/img/proj/clock_thumbnail.png
 importance: 4
 github: https://github.com/chenxcynthia/data-art/tree/main/Tile%20Clock
-category: data viz
+category: visualization
 ---
 
 

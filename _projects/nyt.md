@@ -5,7 +5,7 @@ description: World news from 1996-2006.
 img: assets/img/proj/nyt_thumbnail.png
 importance: 4
 github: https://github.com/chenxcynthia/data-art/tree/main/NYT%20Headlines
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">

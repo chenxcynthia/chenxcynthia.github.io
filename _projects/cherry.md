@@ -5,7 +5,7 @@ description: Japanese sakura full-blooming dates since the 9th century.
 img: assets/img/proj/cherry_thumbnail.png
 importance: 3
 github: https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">

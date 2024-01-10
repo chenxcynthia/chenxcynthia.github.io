@@ -5,7 +5,7 @@ permalink: /projects/
 description: explorations in AI research, data visualization, and software engineering.
 nav: true
 nav_order: 2
-display_categories: [research, data, engineering]
+display_categories: [research, visualization, engineering]
 horizontal: false
 ---
 

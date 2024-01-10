@@ -5,7 +5,7 @@ description: Visualizing community in Eliot House.
 img: assets/img/proj/eliot/thumbnail.png
 importance: 0
 github: https://github.com/chenxcynthia/eliot-data-viz
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">

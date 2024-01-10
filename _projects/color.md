@@ -5,7 +5,7 @@ description: A study on color in paintings @ Harvard Art Museums.
 img: assets/img/proj/color/thumbnail.png
 importance: 2
 github: https://github.com/chenxcynthia/data-art/tree/main/Color%20in%20Paintings
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">

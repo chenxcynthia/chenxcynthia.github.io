@@ -5,7 +5,7 @@ description: How did 3000 romantic relationships fare over time?
 img: assets/img/proj/relationships_thumbnail.png
 importance: 1
 github: https://github.com/chenxcynthia/data-art/tree/main/Relationships%20Over%20Time
-category: data viz
+category: visualization
 ---
 
 <div class = "projheader">
