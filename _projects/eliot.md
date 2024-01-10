@@ -12,21 +12,34 @@ category: visualization
     <div class="links"><a href='https://github.com/chenxcynthia/eliot-data-viz' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
-[Eliot House](https://eliot.harvard.edu/), one of Harvard's twelve residential houses for undergraduates, is a special place for all who know it. From the bustling dining hall filled with students, to the friendly, familiar faces of the house staff, Eliot is a welcoming home of unity among diversity. As a resident of Eliot for the past three years, I have made some of my closest and most cherished relationships on campus through the house, and I will always be grateful Eliot's for vibrant and tight-knit community.
+### About 
+[Eliot House](https://eliot.harvard.edu/), one of Harvard's twelve residential houses for undergraduates, is a special place for all who know it. From the friendly, familiar faces of the house staff to the bustling dining hall filled with students every evening, Eliot is a welcoming home for over three hundred people. As an Eliot resident myself for the past three years, I’ve formed many close relationships with others in the house and will always be grateful for Eliot's tight-knit community.
 
-As someone interested in using data visualization to draw out patterns at scale, I was curious to see whether I could visualize and portray the essence of the Eliot house community. In my piece, I sought to capture the diversity of student backgrounds, the coming together of people with different interests, and the plethora of connections that Eliot House has fostered.
+I was interested in seeing whether I could portray the essence of the Eliot House community through a data visualization piece. In this work, I aimed to capture the colorful personality of Eliot’s community: the diverse range of student backgrounds and interests, the coming together of people from different walks of life, and the incredible plethora of connections that Eliot has fostered.
 
-Some questions I grappled with in this process were:
+Some questions of the I grappled with in the process of making of this piece:
+- How can I capture the breadth of intellectual diversity within the Eliot community?
+- What is the best way to portray connections between individuals?
+- How can I encode individual information (e.g. hometown, concentration, class) while maintaining data privacy and anonymity?
 
-- How I capture the essence of the diversity and intellectual breadth of students in Eliot?
-- What is the best way to show connections between students visually?
-- How can I encode and represent individual information (e.g. hometown, concentration, class) in the visualization while maintaining data privacy and anonymity?
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/eliot.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The final piece.
+</div>
+
+### Process 
+
 
 
 &#8202;
 
-This project was completed as part of the Eliot Community Artist Fellowship. Many thanks to all the Eliot students who participated in the data collection survery and to Anne Lheem, Stephanie Paulsell, and Andi Wright for their support. If you have any thoughts or questions on this work, I'd love to hear from you.
 
-<i> **Questions about this project?** Email me at cynthiachen@college.harvard.edu.</i>
+This project was completed as part of the 2023 Eliot Community Artist Fellowship. Many thanks to Anne Lheem, Stephanie Paulsell, and Andi Wright for making the fellowship possible and to the 38 Eliot students who participated in the data collection survey.
+
+<i> **Questions about this project?** I’d love to hear from you through <a href="mailto:cynthiachen@college.harvard.edu">email</a>!</i>
 
 &#8202;
