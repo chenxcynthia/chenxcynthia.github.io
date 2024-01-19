@@ -3,7 +3,7 @@ layout: page
 title: Sakura Season
 description: Japanese sakura full-blooming dates since the 9th century.
 img: assets/img/proj/cherry_thumbnail.png
-importance: 3
+importance: 4
 github: https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms
 category: visualization
 ---

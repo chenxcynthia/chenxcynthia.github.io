@@ -9,6 +9,10 @@ category: visualization
 ---
 
 <div class = "projheader">
+    <div class="links"><a href='https://drive.google.com/file/d/1cpUUtVKPJt62t9C2vgyZ-bLjlU1PMZ6_/view?usp=sharing' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Visualization</a></div>
+</div>
+
+<div class = "projheader">
     <div class="links"><a href='https://github.com/chenxcynthia/eliot-data-viz' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
