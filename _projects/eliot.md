@@ -1,18 +1,14 @@
 ---
 layout: page
 title: Characters & Connections
-description: Visualizing community in Eliot House at Harvard.
+description: Visualizing student community in Harvard University's Eliot House.
 img: assets/img/proj/eliot/thumbnail.png
 importance: 0
 github: https://github.com/chenxcynthia/eliot-data-viz
 category: visualization
 ---
-
 <div class = "projheader">
-    <div class="links"><a href='https://drive.google.com/file/d/1cpUUtVKPJt62t9C2vgyZ-bLjlU1PMZ6_/view?usp=sharing' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Visualization</a></div>
-</div>
-
-<div class = "projheader">
+    <div class="links"><a href='https://drive.google.com/file/d/1cpUUtVKPJt62t9C2vgyZ-bLjlU1PMZ6_/view?usp=sharing' class="btn z-depth-0" role="button"> Visualization </a></div>
     <div class="links"><a href='https://github.com/chenxcynthia/eliot-data-viz' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
