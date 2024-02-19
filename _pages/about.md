@@ -22,9 +22,9 @@ experience: true
 
 <h4> About </h4>
 
-I'm a Harvard CS student passionate about building impactful products. Currently, I'm working on AI interpretability [research](https://chenxcynthia.github.io/projects/) and organizing efforts to build [startup community](https://harvardstartups.vercel.app/) at Harvard.
+I'm a Harvard CS student passionate about building impactful products. I am a researcher at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) and a co-organizer of [Starutps @ Harvard](startupsatharvard.com).
 
-I've previously worked on backend and AI infra at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). Later this year, I'll be joining [Convex](https://www.convex.dev/) as a software engineer.
+I've previously worked on backend software and AI infra at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). I will be joining [Convex](https://www.convex.dev/) later this year.
 
 <!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm specifically interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
 
