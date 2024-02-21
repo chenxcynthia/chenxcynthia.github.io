@@ -22,7 +22,7 @@ experience: true
 
 <h4> About </h4>
 
-I'm a Harvard CS student passionate about building impactful products. I am a researcher at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) and a co-organizer of [Starutps @ Harvard](https://www.startupsatharvard.com/).
+I'm a Harvard CS student passionate about building impactful products. I am a researcher at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) and a co-organizer of [Startups @ Harvard](https://www.startupsatharvard.com/).
 
 I've previously worked on backend software and AI infra at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). I will be joining [Convex](https://www.convex.dev/) later this year.
 
