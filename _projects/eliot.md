@@ -25,9 +25,7 @@ Some of the main questions I considered when making the visualization were: How 
 To collect data for the visualization, I designed a survey that I sent out to the entire house. The survey asked about students' backgrounds (hometown, class year, concentration/secondary) as well as who they had roomed with in Eliot and friends they had made through Eliot. 
 <!-- When designing the survey, I thought about two main questions: 1) what information would I need to capture the diversity of student backgrounds and intellectual interests? and 2) what exactly  -->
 
-38 students responded to the survey; among the responses, 665 connections were mentioned. Data was cleaned and processed via a [Jupyter notebook](https://github.com/chenxcynthia/eliot-data-viz/blob/main/data%20processing.ipynb). I wanted the placement of student nodes in the visualization to represent where they had come from, so I extracted the latitude and longitude values of each student's hometown, then using Lloyd field relaxation to ensure ample spacing between nodes.
-
-In the visualization, each student is represented as a colorful circle (with ring colors encoding the student's field of study and class year), and the placement of each circle represents the geographic location of the respective student's hometown. Individuals that were mentioned by respondents but did not respond to the survey are represented as small black dots. Connections between students, both roommate relationships and friendships, are represented as thin arcs. The visualization was made using [OpenProcessing](https://openprocessing.org/sketch/2070608). 
+38 students responded to the survey; among the responses, 665 connections were mentioned. I cleaned and processed the respondent data via a [Jupyter notebook](https://github.com/chenxcynthia/eliot-data-viz/blob/main/data%20processing.ipynb). Each student's field of study (concentration, secondary, or joint) was converted numerical encoding, and the the latitude and longitude values of each student's hometown were extracted and processed using Lloyd field relaxation to ensure ample spacing between nodes. The data was then imported into [OpenProcessing](https://openprocessing.org/sketch/2070608), where the visualization was made.
 
 ### Visualization
 <div class="row justify-content-sm-center">
@@ -36,15 +34,23 @@ In the visualization, each student is represented as a colorful circle (with rin
     </div>
 </div>
 <div class="caption">
-    The final visualization piece.
+    The final visualization.
 </div>
 
-Every circle in this piece represents a single student, with the circle’s placement representing the student’s hometown and the circle’s colors encoding concentration and class year. Connections between students are drawn as curved arcs. 
+In the visualization, each student respondent is represented as a colorful circle. Ring colors encode the student's field of study and class year, and the placement of each circle represent the geographic location of the respective student's hometown. Individuals that were mentioned by respondents but did not respond to the survey are represented as small black dots. Connections between students, both roommate relationships and friendships, are drawn as curved lines with varying arc angles.
 
-The coolest part of the project was that thi
+The coolest part of this project was being able to install it in the Eliot Junior Common Room as an art piece:
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/installation.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Me + the installation!
+</div>
 
 &#8202;
-
 
 This project was supported by the 2023 Eliot Community Artist Fellowship, enabling students to create art to be installed in the Eliot Junior Common Room. Many thanks to Stephanie Paulsell, Andi Wright, and Anne Lheem for making the fellowship possible, to Martin Wattenberg for his feedback on initial versions of the piece, and the 38 Eliot students who filled out the data collection survey. 
 
