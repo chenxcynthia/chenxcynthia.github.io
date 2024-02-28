@@ -14,11 +14,11 @@
 <meta property="og:url" content="https://chenxcynthia.github.io/projects/eliot/">
 <meta property="og:site_name" content="Cynthia Chen">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-02-28T17:31:10+00:00">
+<meta property="article:published_time" content="2024-02-28T17:43:33+00:00">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Characters &amp; Connections">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-02-28T17:31:10+00:00","datePublished":"2024-02-28T17:31:10+00:00","description":"Visualizing student community in Harvard University’s Eliot House.","headline":"Characters &amp; Connections","mainEntityOfPage":{"@type":"WebPage","@id":"https://chenxcynthia.github.io/projects/eliot/"},"url":"https://chenxcynthia.github.io/projects/eliot/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-02-28T17:43:33+00:00","datePublished":"2024-02-28T17:43:33+00:00","description":"Visualizing student community in Harvard University’s Eliot House.","headline":"Characters &amp; Connections","mainEntityOfPage":{"@type":"WebPage","@id":"https://chenxcynthia.github.io/projects/eliot/"},"url":"https://chenxcynthia.github.io/projects/eliot/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -159,9 +159,7 @@
 <p>To collect data for the visualization, I designed a survey that I sent out to the entire house. The survey asked about students’ backgrounds (hometown, class year, concentration/secondary) as well as who they had roomed with in Eliot and friends they had made through Eliot. 
 <!-- When designing the survey, I thought about two main questions: 1) what information would I need to capture the diversity of student backgrounds and intellectual interests? and 2) what exactly  --></p>
 
-<p>38 students responded to the survey; among the responses, 665 connections were mentioned. Data was cleaned and processed via a <a href="https://github.com/chenxcynthia/eliot-data-viz/blob/main/data%20processing.ipynb" rel="external nofollow noopener" target="_blank">Jupyter notebook</a>. I wanted the placement of student nodes in the visualization to represent where they had come from, so I extracted the latitude and longitude values of each student’s hometown, then using Lloyd field relaxation to ensure ample spacing between nodes.</p>
-
-<p>In the visualization, each student is represented as a colorful circle (with ring colors encoding the student’s field of study and class year), and the placement of each circle represents the geographic location of the respective student’s hometown. Individuals that were mentioned by respondents but did not respond to the survey are represented as small black dots. Connections between students, both roommate relationships and friendships, are represented as thin arcs. The visualization was made using <a href="https://openprocessing.org/sketch/2070608" rel="external nofollow noopener" target="_blank">OpenProcessing</a>.</p>
+<p>38 students responded to the survey; among the responses, 665 connections were mentioned. I cleaned and processed the respondent data via a <a href="https://github.com/chenxcynthia/eliot-data-viz/blob/main/data%20processing.ipynb" rel="external nofollow noopener" target="_blank">Jupyter notebook</a>. Each student’s field of study (concentration, secondary, or joint) was converted numerical encoding, and the the latitude and longitude values of each student’s hometown were extracted and processed using Lloyd field relaxation to ensure ample spacing between nodes. The data was then imported into <a href="https://openprocessing.org/sketch/2070608" rel="external nofollow noopener" target="_blank">OpenProcessing</a>, where the visualization was made.</p>
 
 <h3 id="visualization">Visualization</h3>
 <div class="row justify-content-sm-center">
@@ -185,12 +183,36 @@
     </div>
 </div>
 <div class="caption">
-    The final visualization piece.
+    The final visualization.
 </div>
 
-<p>Every circle in this piece represents a single student, with the circle’s placement representing the student’s hometown and the circle’s colors encoding concentration and class year. Connections between students are drawn as curved arcs.</p>
+<p>In the visualization, each student respondent is represented as a colorful circle. Ring colors encode the student’s field of study and class year, and the placement of each circle represent the geographic location of the respective student’s hometown. Individuals that were mentioned by respondents but did not respond to the survey are represented as small black dots. Connections between students, both roommate relationships and friendships, are drawn as curved lines with varying arc angles.</p>
 
-<p>The coolest part of the project was that thi</p>
+<p>The coolest part of this project was being able to install it in the Eliot Junior Common Room as an art piece:</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/proj/installation-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/proj/installation-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/proj/installation-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj/installation.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Me + the installation!
+</div>
 
 <p> </p>
 
