@@ -56,7 +56,7 @@ The coolest part of this project was being able to install it in the Eliot Junio
 
 &#8202;
 
-This project was supported by the 2023 Eliot Community Artist Fellowship, enabling students to create art to be installed in the Eliot Junior Common Room. Many thanks to Stephanie Paulsell, Andi Wright, and Anne Lheem for making the fellowship possible, to Martin Wattenberg for his feedback on initial versions of the piece, and the 38 Eliot students who filled out the data collection survey.
+This project was supported by the Eliot Community Artist Fellowship, an opportunity for students to create art to be installed in the Eliot Junior Common Room. Many thanks to Stephanie Paulsell, Andi Wright, and Anne Lheem for organizing the fellowship, to Martin Wattenberg for his feedback on initial versions of the piece, and to the 38 participants of the data collection survey.
 
 <i> **Questions or thoughts on this project?** </i> Reach me via <a href="mailto:cynthiachen@college.harvard.edu">email</a>.
 
