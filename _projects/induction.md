@@ -100,24 +100,24 @@ Similar trends of induction heads appearing in later layers are also observed in
 **References**
 
 [1] C. Olsson, N. Elhage, N. Nanda, N. Joseph, N. DasSarma, T. Henighan, B. Mann, A. Askell, Y. Bai,
-A. Chen, et al. In-context learning and induction heads. arXiv preprint arXiv:2209.11895, 2022.
+A. Chen, et al. [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html). Transformer Circuits Thread, 2022.
 
-[2] A. Patel, B. Li, M. S. Rasooli, N. Constant, C. Raffel, and C. Callison-Burch. Bidirectional language
-models are also few-shot learners. arXiv preprint arXiv:2209.14500, 2022.
+[2] A. Patel, B. Li, M. S. Rasooli, N. Constant, C. Raffel, and C. Callison-Burch. [Bidirectional language
+models are also few-shot learners](https://arxiv.org/abs/2209.14500). arXiv preprint arXiv:2209.14500, 2022.
 
-[3] A. Variengien. Some common confusion about induction heads. https://www.lesswrong.com/posts/
-nJqftacoQGKurJ6fv/some-common-confusion-about-induction-heads. Accessed: 2023-04-18.
+[3] A. Variengien. [Some common confusion about induction heads](https://www.lesswrong.com/posts/
+nJqftacoQGKurJ6fv/some-common-confusion-about-induction-heads).
 
-[4] N. Nanda. Induction Mosaic. https://www.neelnanda.io/mosaic. Accessed: 2023-04-18.
+[4] N. Nanda. [Induction Mosaic](https://www.neelnanda.io/mosaic).
 
-[5] K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt. Interpretability in the wild: a circuit
-for indirect object identification in GPT-2 small. arXiv preprint arXiv:2211.00593, 2022.
+[5] K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt. [Interpretability in the wild: a circuit
+for indirect object identification in GPT-2 small](https://arxiv.org/pdf/2211.00593.pdf). arXiv preprint arXiv:2211.00593, 2022.
 
 
 &#8202;
 
-This project was conducted at the [Insight + Interaction Lab](https://insight.seas.harvard.edu/) at Harvard University under the mentorship of [Catherine Yeh](https://catherinesyeh.github.io/), Professor [Martin Wattenberg](https://www.bewitched.com/), and Professor [Fernanda Viégas](http://www.fernandaviegas.com/).
+This project was conducted at the [Insight + Interaction Lab](https://insight.seas.harvard.edu/) at Harvard University in collaboration with [Catherine Yeh](https://catherinesyeh.github.io/) under the supervision of Professor [Martin Wattenberg](https://www.bewitched.com/) and Professor [Fernanda Viégas](http://www.fernandaviegas.com/).
 
-<i>**Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>
+<i>**Questions or thoughts?**</i>Email me at cynthiachen@college.harvard.edu.
 
 &#8202;

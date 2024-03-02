@@ -33,7 +33,7 @@ To collect data for the visualization, I designed a survey that I sent out to th
 
 ### Visualization
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/eliot/eliot.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -46,10 +46,10 @@ In the visualization, students are represented as colorful circles. The ring col
 The coolest part of this project was installing it as a permanent art work in the Eliot House Junior Common Room:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/eliot/viewers.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/eliot/installation.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
