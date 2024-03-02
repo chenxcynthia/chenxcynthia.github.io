@@ -34,7 +34,7 @@ To collect data for the visualization, I designed a survey that I sent out to th
 ### Visualization
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/eliot.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/eliot/eliot.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -43,15 +43,18 @@ To collect data for the visualization, I designed a survey that I sent out to th
 
 In the visualization, students are represented as colorful circles. The ring colors of each circle encode the respective student's field of study and class year, and the placement of each circle represents the geographic location of the student's hometown. Individuals that were mentioned by respondents but did not respond to the survey are represented as small black dots. Connections between students, both roommate relationships and friendships, are drawn as curved lines with varying arc angles.
 
-The coolest part of this project was being able to install it in the Eliot Junior Common Room as an art piece:
+The coolest part of this project was installing it as a permanent art work in the Eliot House Junior Common Room:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj/installation.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj/eliot/viewers.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj/eliot/installation.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Me + the installation!
+    The art installation in Eliot House's Junior Common Room!
 </div>
 
 &#8202;

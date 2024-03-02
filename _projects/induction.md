@@ -26,7 +26,7 @@ In particular, in this work, we focus here on *behavioral* induction heads (rath
 
 $$\textrm{ICL Score} = Loss(50 \textrm{-token context}) - Loss(500 \textrm{-token context})$$
 
-We tokenized the Hugging Face \href{https://huggingface.co/datasets/wikipedia}{Wikipedia-simple dataset}, and selected the first 50 and 500 tokens of an article as the two model contexts. We then chose a random token to mask from each context, used BERT to predict the masked token, and computed the loss. Figure 1 displays the ICL scores computed across 50 trials. The mean difference was 0.23, demonstrating a noticeable difference in performance between the two contexts and a signal of in-context learning in BERT.
+We tokenized the Hugging Face [Wikipedia-simple dataset](https://huggingface.co/datasets/wikipedia), and selected the first 50 and 500 tokens of an article as the two model contexts. We then chose a random token to mask from each context, used BERT to predict the masked token, and computed the loss. Figure 1 displays the ICL scores computed across 50 trials. The mean difference was 0.23, demonstrating a noticeable difference in performance between the two contexts and a signal of in-context learning in BERT.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -47,12 +47,12 @@ To visually explore induction heads in BERT, we drew particular inspiration from
     </div>
 </div>
 <div class="caption">
-    Figure 2: The three RRT experiment setups, with arrows denoting the observed attention values placed on ``inductive" tokens by the masked token that were used to compute induction scores. \textbf{(a)} The standard RRT experiment setup, with a series of random tokens followed by the same tokens repeated in the same order. \textbf{(b)} A series of random tokens, followed by the same tokens but in a shuffled order. \textbf{(c)} Bidirectional attention is observed by repeating the same random tokens three times.
+    Figure 2: The three RRT experiment setups, with arrows denoting the observed attention values placed on ``inductive" tokens by the masked token that were used to compute induction scores. **(a)** The standard RRT experiment setup, with a series of random tokens followed by the same tokens repeated in the same order. **(b)** A series of random tokens, followed by the same tokens but in a shuffled order. **(c)** Bidirectional attention is observed by repeating the same random tokens three times.
 </div>
 
 We employ a similar experimental setup for exploring potential induction heads in BERT. First, we generate a sequence of 200 random tokens. We then repeat this sequence of tokens, with several experiment variations (standard, shuffled, repeated on both sides) as shown in Figure 2, to generate a set of random repeated tokens (RRT). We randomly select a token from the second set of random tokens to mask and then pass the masked RRT to the BERT model. From here, we observe the output attention placed from the masked tokens to "inductive" areas, such as the previous instance of the masked token and the tokens before/after the previous instance. 
 
-For a specific attention head, the average output attention to these inductive tokens, computed across 50 trials, is defined as the induction score. The induction score represents the likelihood for a specific attention head to be an induction head. We generate an ``induction map" visualization which displays the induction scores for each attention head as a heatmap.
+For a specific attention head, the average output attention to these inductive tokens, computed across 50 trials, is defined as the induction score. The induction score represents the likelihood for a specific attention head to be an induction head. We generate an "induction map" visualization which displays the induction scores for each attention head as a heatmap.
 
 #### Results
 
