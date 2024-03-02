@@ -14,11 +14,11 @@
 <meta property="og:url" content="https://chenxcynthia.github.io/projects/induction/">
 <meta property="og:site_name" content="Cynthia Chen">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-02-29T06:59:56+00:00">
+<meta property="article:published_time" content="2024-03-02T22:03:12+00:00">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Exploring Induction Heads">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-02-29T06:59:56+00:00","datePublished":"2024-02-29T06:59:56+00:00","description":"An investigation of in-context learning and induction head behavior in BERT.","headline":"Exploring Induction Heads","mainEntityOfPage":{"@type":"WebPage","@id":"https://chenxcynthia.github.io/projects/induction/"},"url":"https://chenxcynthia.github.io/projects/induction/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-03-02T22:03:12+00:00","datePublished":"2024-03-02T22:03:12+00:00","description":"An investigation of in-context learning and induction head behavior in BERT.","headline":"Exploring Induction Heads","mainEntityOfPage":{"@type":"WebPage","@id":"https://chenxcynthia.github.io/projects/induction/"},"url":"https://chenxcynthia.github.io/projects/induction/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -158,7 +158,7 @@
 
 \[\textrm{ICL Score} = Loss(50 \textrm{-token context}) - Loss(500 \textrm{-token context})\]
 
-<p>We tokenized the Hugging Face \href{https://huggingface.co/datasets/wikipedia}{Wikipedia-simple dataset}, and selected the first 50 and 500 tokens of an article as the two model contexts. We then chose a random token to mask from each context, used BERT to predict the masked token, and computed the loss. Figure 1 displays the ICL scores computed across 50 trials. The mean difference was 0.23, demonstrating a noticeable difference in performance between the two contexts and a signal of in-context learning in BERT.</p>
+<p>We tokenized the Hugging Face <a href="https://huggingface.co/datasets/wikipedia" rel="external nofollow noopener" target="_blank">Wikipedia-simple dataset</a>, and selected the first 50 and 500 tokens of an article as the two model contexts. We then chose a random token to mask from each context, used BERT to predict the masked token, and computed the loss. Figure 1 displays the ICL scores computed across 50 trials. The mean difference was 0.23, demonstrating a noticeable difference in performance between the two contexts and a signal of in-context learning in BERT.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -208,12 +208,12 @@
     </div>
 </div>
 <div class="caption">
-    Figure 2: The three RRT experiment setups, with arrows denoting the observed attention values placed on ``inductive" tokens by the masked token that were used to compute induction scores. \textbf{(a)} The standard RRT experiment setup, with a series of random tokens followed by the same tokens repeated in the same order. \textbf{(b)} A series of random tokens, followed by the same tokens but in a shuffled order. \textbf{(c)} Bidirectional attention is observed by repeating the same random tokens three times.
+    Figure 2: The three RRT experiment setups, with arrows denoting the observed attention values placed on ``inductive" tokens by the masked token that were used to compute induction scores. **(a)** The standard RRT experiment setup, with a series of random tokens followed by the same tokens repeated in the same order. **(b)** A series of random tokens, followed by the same tokens but in a shuffled order. **(c)** Bidirectional attention is observed by repeating the same random tokens three times.
 </div>
 
 <p>We employ a similar experimental setup for exploring potential induction heads in BERT. First, we generate a sequence of 200 random tokens. We then repeat this sequence of tokens, with several experiment variations (standard, shuffled, repeated on both sides) as shown in Figure 2, to generate a set of random repeated tokens (RRT). We randomly select a token from the second set of random tokens to mask and then pass the masked RRT to the BERT model. From here, we observe the output attention placed from the masked tokens to “inductive” areas, such as the previous instance of the masked token and the tokens before/after the previous instance.</p>
 
-<p>For a specific attention head, the average output attention to these inductive tokens, computed across 50 trials, is defined as the induction score. The induction score represents the likelihood for a specific attention head to be an induction head. We generate an ``induction map” visualization which displays the induction scores for each attention head as a heatmap.</p>
+<p>For a specific attention head, the average output attention to these inductive tokens, computed across 50 trials, is defined as the induction score. The induction score represents the likelihood for a specific attention head to be an induction head. We generate an “induction map” visualization which displays the induction scores for each attention head as a heatmap.</p>
 
 <h4 id="results">Results</h4>
 
