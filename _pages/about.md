@@ -22,13 +22,11 @@ experience: true
 
 <h4> About </h4>
 
-I'm a Harvard CS student passionate about building impactful products. I am a researcher at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) and a co-organizer of [Startups @ Harvard](https://www.startupsatharvard.com/).
+I'm a software engineer at [Decagon](https://decagon.ai/), building AI support agents for enterprises. I recently graduated from Harvard, where I studied computer science & statistics, did AI research at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/), and launched [Startups @ Harvard](https://www.startupsatharvard.com/). I've previously worked at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/).
 
-I've previously worked on backend software and AI infra at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/). I will be joining [Convex](https://www.convex.dev/) later this year.
+<!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
 
-<!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm specifically interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
-
-I am a [Neo Scholar](https://neo.com/), an HBS Roberts Family [Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), and the founder of [Opportunity X](https://opportunityx.org/).
+<!-- I am a [Neo Scholar](https://neo.com/), an HBS Roberts Family [Technology Innovation Fellow](https://www.hbs.edu/mba/roberts-family-fellows/Pages/default.aspx), and the founder of [Opportunity X](https://opportunityx.org/). -->
 
 <h4> Let's chat </h4>
 I'd love to hear from you via <a href="mailto:cynthiachen@college.harvard.edu">email</a> or [Twitter](https://twitter.com/chenxcynthia).

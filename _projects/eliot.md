@@ -24,7 +24,7 @@ Through the visualization piece, I hope to leave the viewer with a colorful impr
 Some of the main questions I considered when making the visualization were: 
 - How can I capture the diversity of student backgrounds and intellectual interests? 
 - What is the best way to visualize connections between people? 
-- How can I encode individuals' information while maintaining data privacy and anonymity?
+- How can I encode and represent individual information (e.g. hometown, concentration, class year) while maintaining data privacy and anonymity?
 
 To collect data for the visualization, I designed a survey that I sent out to the entire house. The survey asked about students' backgrounds (hometown, class year, concentration/secondary) as well as who they had roomed with in Eliot and friends they had made through Eliot.
 <!-- When designing the survey, I thought about two main questions: 1) what information would I need to capture the diversity of student backgrounds and intellectual interests? and 2) what exactly  -->
