@@ -22,7 +22,7 @@ experience: true
 
 <h4> About </h4>
 
-I'm a software engineer at [Decagon](https://decagon.ai/), building AI support agents for enterprises. I recently graduated from Harvard, where I studied computer science & statistics, did AI research at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/), and launched [Startups @ Harvard](https://www.startupsatharvard.com/). I've previously worked at [Scale AI](https://scale.com), [LinkedIn](https://linkedin.com), and [Jemi](https://jemi.so/).
+I'm a software engineer at [Decagon](https://decagon.ai/), building AI enterprise support agents. I recently graduated from Harvard, where I studied Computer Science and Statistics, did AI research at the [Insight and Interaction Lab](https://insight.seas.harvard.edu/), and launched [Startups @ Harvard](https://www.startupsatharvard.com/). I've previously worked at [Scale AI](https://scale.com), [HRT](https://www.hudsonrivertrading.com/), and [LinkedIn](https://linkedin.com).
 
 <!-- I'm also working on AI interpretability research at Harvard's [Insight and Interaction Lab](https://insight.seas.harvard.edu). I'm interested in visualizing transformer models (check out our recent [paper](https://arxiv.org/pdf/2305.03210.pdf) on transformer attention). -->
 
