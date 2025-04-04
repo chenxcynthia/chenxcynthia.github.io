@@ -5,7 +5,7 @@ description: A study on color in paintings @ Harvard Art Museums.
 img: assets/img/proj/color/thumbnail.png
 importance: 2
 github: https://github.com/chenxcynthia/data-art/tree/main/Color%20in%20Paintings
-category: visualization
+category: data visualization
 ---
 
 <div class = "projheader">
@@ -42,9 +42,7 @@ To determine where each painting is placed in the visualization, I employed a da
     UMAP embeddings of the 293 paintings in the dataset. Several artwork properties including medium, style, and culture of origin were used to form the high-dimensional dataset. The original embedding coordinates are on the left, while the relaxed coordinates, spaced apart for visual purposes, are on the right.
 </div>
 
-
 This piece is best viewed through <a href="https://openprocessing.org/sketch/1787722">the interactive version on OpenProcessing</a>. In addition to the interactive version, I also came up with a poster version with small multiples as shown below. Some future directions that I hope to eventually explore include arranging the artworks by time period and noting any color patterns that arise and perhaps adding animations between these two arrangements.
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -55,10 +53,9 @@ This piece is best viewed through <a href="https://openprocessing.org/sketch/178
     Poster version.
 </div>
 
-
 &#8202;
 
-This project was completed as part of the course CS 73: Code, Data, and Art. 
+This project was completed as part of the course CS 73: Code, Data, and Art.
 
 <i> **Questions or feedback on this project?** Email me at cynthiachen@college.harvard.edu.</i>
 

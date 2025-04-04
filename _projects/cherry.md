@@ -3,15 +3,14 @@ layout: page
 title: Sakura Season
 description: Japanese sakura full-blooming dates since the 9th century.
 img: assets/img/proj/cherry_thumbnail.png
-importance: 4
+importance: 5
 github: https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms
-category: visualization
+category: data visualization
 ---
 
 <div class = "projheader">
     <div class="links"><a href='https://github.com/chenxcynthia/data-art/tree/main/Cherry%20Blossoms' class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
-
 
 A visualization of the annual full-flowering dates of the Japanese cherry blossom (Prunus jamasakura) at Kyoto, Japan. The data, obtained from <a href="http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/">this source</a>, was collected from 5 different studies for a total of 785 data points spanning the 9th century until 2010.
 
@@ -25,5 +24,3 @@ A visualization of the annual full-flowering dates of the Japanese cherry blosso
 </div>
 
 View this piece on <a href="https://openprocessing.org/sketch/1862632">OpenProcessing</a>.
-
-

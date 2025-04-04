@@ -3,9 +3,9 @@ layout: page
 title: Emissions
 description: CO2 emissions, broken down.
 img: assets/img/proj/emissions_thumbnail.png
-importance: 5
+importance: 4
 github: https://github.com/chenxcynthia/data-art/tree/main/Emissions
-category: visualization
+category: data visualization
 ---
 
 <div class = "projheader">
@@ -18,7 +18,6 @@ The global climate change crisis is largely a result of the massive amounts of C
 
 The dataset I found contained data from multiple countries, but I focused on the US data. I cleaned the data using Google Sheets, separating out into multiple columns describing the source of emission. In my visualization, every single square represents 10 million tons of carbon. The color of the square represents the source of the emission, ranging from solid fuels to cement production, which are denoted in the legend.
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj/emissions.png" class="img-fluid rounded z-depth-1" %}
@@ -26,5 +25,3 @@ The dataset I found contained data from multiple countries, but I focused on the
 </div>
 
 View this piece on <a href="https://openprocessing.org/sketch/1866689">OpenProcessing</a>.
-
-
